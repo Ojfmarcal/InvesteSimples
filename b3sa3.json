@@ -1,0 +1,265 @@
+{
+ "meta": {
+  "ticker": "B3SA3",
+  "name": "B3",
+  "sector": "Infraestrutura de mercado",
+  "valuation_model": "multiples",
+  "price": 14.29,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm do Investidor10 sem data (valor de mercado e ações batem com a cotação). Uma manchete do Investidor10 diz que a B3 perdeu metade do valor de mercado após as eleições; a cotação da página pode não refletir isso. Sem modelo de preço justo nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "B3 lucra ",
+   "30% mais",
+   " e devolve R$ 1,5 bi."
+  ],
+  "lede": "O lucro líquido do 3T26 foi de R$ 1,63 bilhão (+30,5%); o recorrente, R$ 1,38 bilhão. Foram R$ 1,128 bilhão em JCP e R$ 383 milhões em recompra. A margem líquida passa de 46%.",
+  "stats": [
+   {
+    "value": "+30,5%",
+    "label": "lucro 3T26 a/a",
+    "tone": "up"
+   },
+   {
+    "value": "30,2%",
+    "label": "ROE"
+   },
+   {
+    "value": "6,3%",
+    "label": "dividend yield"
+   },
+   {
+    "value": "3,8x",
+    "label": "P/VP"
+   }
+  ],
+  "strip": [
+   "Lucro recorrente 3T26: R$ 1,38 bi",
+   "Retorno ao acionista: R$ 1,51 bi",
+   "Receita 3T26: +11% (segundo a B3)",
+   "Caixa líquido: R$ 2,81 bi",
+   "Margem EBITDA: 63%"
+  ],
+  "events_sub": "3T26 · nov/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 1,63 bi, +30,5%",
+    "tag": "lucro",
+    "tone": "pos"
+   },
+   {
+    "abbr": "JC",
+    "title": "JCP e recompra",
+    "sub": "R$ 1,128 bi + R$ 383 mi",
+    "tag": "proventos",
+    "tone": "pos"
+   },
+   {
+    "abbr": "EL",
+    "title": "Queda pós-eleição",
+    "sub": "Manchete: perdeu metade do valor de mercado",
+    "tag": "queda",
+    "tone": "neg"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "Margem EBITDA",
+    "value": 63.04
+   },
+   {
+    "label": "Margem líquida",
+    "value": 46.39
+   },
+   {
+    "label": "ROE",
+    "value": 30.24
+   }
+  ],
+  "note": "Fonte: Investidor10, sem data."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "B3",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 1,63 bi (+30,5%)",
+    "tone": "up"
+   },
+   {
+    "label": "Lucro recorrente",
+    "value": "R$ 1,38 bi"
+   },
+   {
+    "label": "JCP",
+    "value": "R$ 1,128 bi"
+   },
+   {
+    "label": "Recompra",
+    "value": "R$ 383 mi"
+   },
+   {
+    "label": "Receita 12 meses",
+    "value": "R$ 12,31 bi"
+   },
+   {
+    "label": "Lucro 12 meses",
+    "value": "R$ 5,71 bi"
+   }
+  ],
+  "note": "Receita do trimestre: alta de 11% segundo manchete da B3 (valor absoluto não coletado)."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "12,63x"
+   },
+   {
+    "label": "P/VP",
+    "value": "3,82x"
+   },
+   {
+    "label": "EV/EBITDA",
+    "value": "8,93x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "6,32%"
+   },
+   {
+    "label": "ROE",
+    "value": "30,24%"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "-R$ 2,81 bi",
+    "tip": "Negativo: caixa líquido"
+   },
+   {
+    "label": "VPA",
+    "value": "R$ 3,74"
+   },
+   {
+    "label": "LPA",
+    "value": "R$ 1,13"
+   },
+   {
+    "label": "Ações",
+    "value": "5,05 bi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 72,11 bi"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bolsa e infraestrutura",
+  "sub": "contexto",
+  "bullets": [
+   "A B3 é líder global em futuros, segundo a própria B3.",
+   "Juros altos favorecem a receita de renda fixa e o caixa, e pesam no volume de renda variável.",
+   "Concorrência nova pode abalar o preço das ações (manchete do Investidor10)."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Lucro +30,5% e margem líquida de 46%.",
+   "ROE de 30,2% e caixa líquido de R$ 2,81 bi.",
+   "Retorno ao acionista de R$ 1,51 bi no trimestre.",
+   "Líder em futuros."
+  ],
+  "cons": [
+   "P/VP de 3,8x já precifica boa parte da qualidade.",
+   "Dependência do volume negociado e do humor do mercado.",
+   "Nova concorrência e risco político.",
+   "Manchete aponta perda de metade do valor de mercado após as eleições."
+  ],
+  "guidance": [],
+  "watch": "Observar: volume médio diário, taxa de juros, concorrência e retorno ao acionista."
+ },
+ "timeline": [],
+ "competitive": [
+  "Concorrência nova no mercado de ações é citada como risco (Investidor10)."
+ ],
+ "sources": "Investidor10 (página B3SA3 e manchetes), Brapi, DGABC/Estadão Conteúdo, B3 (Bora Investir). Sem modelo de preço justo nesta versão."
+}

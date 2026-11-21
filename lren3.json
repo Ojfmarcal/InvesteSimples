@@ -1,0 +1,281 @@
+{
+ "meta": {
+  "ticker": "LREN3",
+  "name": "Lojas Renner",
+  "sector": "Varejo de moda",
+  "valuation_model": "multiples",
+  "price": 9.08,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm da página do Investidor10, que não informa a data. Os resultados do 3T26 vêm de notícias datadas de novembro de 2026. Confira a cotação antes de usar o preço. Não há DCF nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Renner lucra menos e ",
+   "abandona",
+   " as metas de crescimento."
+  ],
+  "lede": "O lucro do 3T26 caiu 11,8%, para R$ 246,4 milhões, e a companhia retirou as projeções de receita para 2026–2030. A ação negocia abaixo do valor patrimonial e a empresa tem caixa líquido.",
+  "stats": [
+   {
+    "value": "-36,9%",
+    "label": "cotação em 12 meses",
+    "tone": "dn"
+   },
+   {
+    "value": "0,90x",
+    "label": "P/VP"
+   },
+   {
+    "value": "R$ 9,1 bi",
+    "label": "valor de mercado"
+   },
+   {
+    "value": "10,1%",
+    "label": "dividend yield"
+   }
+  ],
+  "strip": [
+   "Lucro 3T26: R$ 246,4 mi (-11,8%)",
+   "Receita líquida 3T26: R$ 3,52 bi",
+   "Margem bruta recorde no varejo",
+   "JCP de R$ 227,5 mi (R$ 0,24 por ação)",
+   "Caixa líquido de R$ 1,17 bi"
+  ],
+  "events_sub": "3T26 · nov/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 246,4 mi, -11,8% a/a",
+    "tag": "lucro",
+    "tone": "neg"
+   },
+   {
+    "abbr": "ME",
+    "title": "Metas 2026–2030",
+    "sub": "Projeções de crescimento de receita abandonadas",
+    "tag": "metas",
+    "tone": "neg"
+   },
+   {
+    "abbr": "JC",
+    "title": "JCP aprovado",
+    "sub": "R$ 227,5 mi, R$ 0,24 por ação",
+    "tag": "proventos",
+    "tone": "pos"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "Margem EBITDA",
+    "value": 19.14
+   },
+   {
+    "label": "Margem líquida",
+    "value": 9.17
+   },
+   {
+    "label": "ROE",
+    "value": 14.31
+   },
+   {
+    "label": "ROIC",
+    "value": 13.78
+   }
+  ],
+  "note": "Fonte: Investidor10, sem data."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Renner",
+  "rows": [
+   {
+    "label": "Receita líquida",
+    "value": "R$ 3,52 bi"
+   },
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 246,4 mi",
+    "tone": "dn"
+   },
+   {
+    "label": "Variação do lucro",
+    "value": "-11,8% a/a",
+    "tone": "dn"
+   },
+   {
+    "label": "Margem bruta (varejo)",
+    "value": "recorde"
+   },
+   {
+    "label": "Receita 12 meses",
+    "value": "R$ 15,93 bi"
+   },
+   {
+    "label": "Lucro 12 meses",
+    "value": "R$ 1,46 bi"
+   }
+  ],
+  "note": "Receita e margem do trimestre vêm do título de notícia; sem detalhe por linha."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "6,26x"
+   },
+   {
+    "label": "P/VP",
+    "value": "0,90x"
+   },
+   {
+    "label": "EV/EBITDA",
+    "value": "2,61x",
+    "tip": "Como informado na fonte; confira o cálculo."
+   },
+   {
+    "label": "Dividend yield",
+    "value": "10,14%"
+   },
+   {
+    "label": "ROE",
+    "value": "14,31%"
+   },
+   {
+    "label": "ROIC",
+    "value": "13,78%"
+   },
+   {
+    "label": "Dív. líquida/EBITDA",
+    "value": "-0,38x",
+    "tip": "Negativo: caixa líquido"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "-R$ 1,17 bi",
+    "tip": "Negativo: caixa líquido"
+   },
+   {
+    "label": "Ações",
+    "value": "1,007 bi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 9,14 bi"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o custo de capital.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Varejo de moda",
+  "sub": "lucro do 3T26 nas empresas cobertas",
+  "bullets": [
+   "Lucro do 3T26 caiu nas quatro varejistas de moda cobertas aqui: Renner (-11,8%), C&A (-23,3% ajustado), Azzas (-5,3% recorrente) e Vivara (-22,2% ajustado).",
+   "Margem bruta é o ponto forte: recorde no varejo da Renner, 21ª alta seguida na C&A e 56,8% na Azzas.",
+   "Vendas fracas em mesmas lojas e juros altos são o freio comum: C&A com +1% e Assaí com +0,1% no trimestre."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Caixa líquido de R$ 1,17 bi.",
+   "Dividend yield de 10,1% e JCP de R$ 0,24 por ação no trimestre.",
+   "Margem bruta recorde no varejo no 3T26.",
+   "P/L de 6,3x e P/VP de 0,90x, abaixo do valor patrimonial."
+  ],
+  "cons": [
+   "Lucro do 3T26 caiu 11,8% a/a.",
+   "Sem metas de crescimento de receita para 2026–2030, a empresa perde a âncora da tese de expansão.",
+   "Ação caiu 36,9% em 12 meses.",
+   "Selic em 13,75% segura o consumo discricionário."
+  ],
+  "guidance": [
+   [
+    "Metas 2026–2030",
+    "retiradas"
+   ],
+   [
+    "JCP do 3T26",
+    "R$ 227,5 mi"
+   ]
+  ],
+  "watch": "Observar: vendas em mesmas lojas, nova política de metas e geração de caixa nos próximos trimestres."
+ },
+ "timeline": [],
+ "competitive": [
+  "Pares de moda cobertos aqui: C&A e Azzas. Comparação detalhada de participação não coletada nesta versão."
+ ],
+ "sources": "Investidor10 (página LREN3 e notícias do 3T26), Jornal do Comércio, DGABC/Estadão Conteúdo, Times Brasil. Sem DCF e sem preços-alvo confirmados nesta versão."
+}

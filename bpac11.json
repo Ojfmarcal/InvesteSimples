@@ -1,0 +1,226 @@
+{
+ "meta": {
+  "ticker": "BPAC11",
+  "name": "BTG Pactual",
+  "sector": "Bancos",
+  "valuation_model": "multiples",
+  "price": 49.23,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "A cotação da unit vem da página do Investidor10 sem data. Na divulgação (12/11) as units ainda estavam acima de R$ 49. Não consegui abrir os indicadores completos: faltam P/VP e VPA, então não há modelo de P/VP justo.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "BTG bate recorde de lucro, mas a ação ",
+   "cai 31%",
+   " desde 20/10."
+  ],
+  "lede": "O lucro do 3T26 foi de R$ 5,3 bilhões (+17%), com ROE de 26,7% e Basileia de 16,3%. Mesmo assim as units recuaram mais de 31% entre 20/10 e 11/11, em meio ao resultado eleitoral.",
+  "stats": [
+   {
+    "value": "R$ 5,3 bi",
+    "label": "lucro 3T26",
+    "tone": "up"
+   },
+   {
+    "value": "26,7%",
+    "label": "ROE"
+   },
+   {
+    "value": "R$ 2,8 tri",
+    "label": "custódia"
+   },
+   {
+    "value": "16,3%",
+    "label": "índice de Basileia"
+   }
+  ],
+  "strip": [
+   "Receita total: R$ 10,8 bi (+13,8%)",
+   "Captação líquida: R$ 58 bi no trimestre",
+   "Units: -31% entre 20/10 e 11/11",
+   "Recompra de até R$ 2 bi em 18 meses"
+  ],
+  "events_sub": "3T26 · 12/11/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 5,3 bi, +17%",
+    "tag": "lucro",
+    "tone": "pos"
+   },
+   {
+    "abbr": "RC",
+    "title": "Recompra",
+    "sub": "Até R$ 2 bi em units, 18 meses",
+    "tag": "recompra",
+    "tone": "pos"
+   },
+   {
+    "abbr": "EL",
+    "title": "Resultado eleitoral",
+    "sub": "Units caíram 31% entre 20/10 e 11/11",
+    "tag": "queda",
+    "tone": "neg"
+   }
+  ]
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "BTG Pactual · 12/11/2026",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 5,3 bi (+17%)",
+    "tone": "up"
+   },
+   {
+    "label": "ROE",
+    "value": "26,7% (-0,3 p.p.)"
+   },
+   {
+    "label": "Receita total",
+    "value": "R$ 10,8 bi (+13,8%)",
+    "tone": "up"
+   },
+   {
+    "label": "Índice de Basileia",
+    "value": "16,3%"
+   },
+   {
+    "label": "Custódia",
+    "value": "R$ 2,8 tri (+22% em 12m)"
+   },
+   {
+    "label": "Captação líquida",
+    "value": "R$ 58 bi no trimestre"
+   },
+   {
+    "label": "Cotação da unit",
+    "value": "R$ 49,23 (ref.)"
+   }
+  ],
+  "note": "Alvos de analistas e guidance não aparecem nas fontes coletadas."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "Cotação da unit",
+    "value": "R$ 49,23"
+   },
+   {
+    "label": "Variação em 12 meses",
+    "value": "-4,16%"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bancos",
+  "sub": "contexto",
+  "bullets": [
+   "O BTG foi o banco que mais subiu e o que mais devolveu no ciclo eleitoral: +27% no \"trade eleitoral\" e -31% entre 20/10 e 11/11.",
+   "Itaú e Bradesco mantêm lucro em alta; o BB sofre com o agro.",
+   "Selic em 13,75% eleva a receita de tesouraria, mas pesa em crédito."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "ROE de 26,7%, o mais alto entre os bancos da lista.",
+   "Lucro recorde de R$ 5,3 bi (+17%) e receita +13,8%.",
+   "Custódia de R$ 2,8 tri, +22% em 12 meses, e captação líquida de R$ 58 bi.",
+   "Recompra de até R$ 2 bi."
+  ],
+  "cons": [
+   "A ação caiu 31% em três semanas, reflexo de risco político e de mercado.",
+   "ROE recuou 0,3 p.p. no ano.",
+   "Receita ligada ao mercado de capitais é cíclica."
+  ],
+  "guidance": [
+   [
+    "Recompra",
+    "até R$ 2 bi / 18 meses"
+   ]
+  ],
+  "watch": "Observar: volatilidade pós-eleição, ROE e o apetite por risco do mercado."
+ },
+ "timeline": [
+  {
+   "date": "12/11",
+   "event": "BTG divulga o 3T26",
+   "why": "Lucro recorde; units caem mais de 3% no dia"
+  }
+ ],
+ "competitive": [],
+ "sources": "Investidor10 (página BPAC11 e matéria de 12/11/2026)."
+}

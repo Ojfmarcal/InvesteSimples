@@ -1,0 +1,220 @@
+{
+ "meta": {
+  "ticker": "MGLU3",
+  "name": "Magazine Luiza",
+  "sector": "Varejo eletro e digital",
+  "valuation_model": "multiples",
+  "price": 8.2,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm do Investidor10 sem data. O lucro de R$ 14 mi é o ajustado; as fontes divergem em prejuízo ou lucro contábil e eu não confirmei. Não há DCF nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Magalu ganha espaço, mas os juros comem o ",
+   "lucro",
+   "."
+  ],
+  "lede": "A receita do 3T26 ficou em R$ 8,9 bilhões e o EBITDA ajustado em R$ 710 milhões, estável. O lucro ajustado foi de apenas R$ 14 milhões (-34,6%). A empresa cresce em lojas físicas com a crise da Casas Bahia.",
+  "stats": [
+   {
+    "value": "-7,5%",
+    "label": "cotação em 12 meses",
+    "tone": "dn"
+   },
+   {
+    "value": "0,57x",
+    "label": "P/VP"
+   },
+   {
+    "value": "R$ 3,1 bi",
+    "label": "dívida líquida"
+   },
+   {
+    "value": "R$ 504 mi",
+    "label": "caixa líquido ajustado"
+   }
+  ],
+  "strip": [
+   "Receita líquida 3T26: R$ 8,9 bi (ante R$ 9,0 bi)",
+   "EBITDA ajustado: R$ 710 mi (-0,2%)",
+   "Lucro ajustado: R$ 14 mi (-34,6%)",
+   "Dívida líquida: R$ 3,11 bi",
+   "Dividend yield: 0,99%"
+  ],
+  "events_sub": "3T26 · 09/11/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro ajustado de R$ 14 mi, -34,6%",
+    "tag": "lucro",
+    "tone": "neg"
+   },
+   {
+    "abbr": "EB",
+    "title": "EBITDA ajustado",
+    "sub": "R$ 710 mi, estável",
+    "tag": "EBITDA",
+    "tone": "neutral"
+   },
+   {
+    "abbr": "CB",
+    "title": "Crise da Casas Bahia",
+    "sub": "Magalu dobra ritmo em lojas físicas",
+    "tag": "vendas",
+    "tone": "pos"
+   }
+  ]
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Magalu · 09/11/2026",
+  "rows": [
+   {
+    "label": "Receita líquida",
+    "value": "R$ 8,9 bi (ante R$ 9,0 bi)"
+   },
+   {
+    "label": "EBITDA ajustado",
+    "value": "R$ 710 mi (-0,2%)"
+   },
+   {
+    "label": "Lucro líquido ajustado",
+    "value": "R$ 14 mi (-34,6%)",
+    "tone": "dn"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "R$ 3,11 bi (ante R$ 3,18 bi)"
+   },
+   {
+    "label": "Caixa líquido ajustado",
+    "value": "R$ 503,8 mi"
+   }
+  ],
+  "note": "Margem EBITDA ≈ 8% (cálculo meu: 710 ÷ 8.900)."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/VP",
+    "value": "0,57x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "0,99%"
+   },
+   {
+    "label": "P/L",
+    "value": "n/d",
+    "tip": "Fonte mostra valor distorcido (lucro perto de zero)"
+   },
+   {
+    "label": "Margem líquida",
+    "value": "-0,02%",
+    "tip": "Base de 12 meses, sem período especificado"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o custo de capital.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Varejo eletro e digital",
+  "sub": "contexto",
+  "bullets": [
+   "Crise da Casas Bahia (BHIA3) abre espaço: o Magalu dobrou o ritmo de vendas em lojas físicas, segundo a Brapi.",
+   "Analistas citam juros e dívida como preocupações (Bloomberg Línea).",
+   "Casas Bahia ainda não está nesta lista."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Ganho de espaço com a crise da Casas Bahia.",
+   "Receita estável e EBITDA ajustado estável em um ambiente de juros altos.",
+   "Dívida líquida em queda: R$ 3,11 bi, ante R$ 3,18 bi.",
+   "P/VP de 0,57x."
+  ],
+  "cons": [
+   "Lucro ajustado de R$ 14 mi (-34,6%): pouca margem de segurança.",
+   "Dificuldade de converter eficiência em crescimento (InfoMoney).",
+   "Juros altos e dívida preocupam analistas.",
+   "Ação -7,5% em 12 meses."
+  ],
+  "guidance": [],
+  "watch": "Observar: crescimento de receita, despesas financeiras e o desempenho da Black Friday."
+ },
+ "timeline": [],
+ "competitive": [
+  "Casas Bahia em crise: Magalu ganha participação em lojas físicas."
+ ],
+ "sources": "Investidor10 (página MGLU3 e notícia de 09/11/2026), InfoMoney, Brapi, Seu Dinheiro, Bloomberg Línea. Sem DCF nesta versão."
+}

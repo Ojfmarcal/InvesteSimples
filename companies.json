@@ -1,0 +1,114 @@
+[
+ {
+  "ticker": "VIVA3",
+  "slug": "viva3",
+  "name": "Vivara Participações",
+  "sector": "Varejo de joias e acessórios",
+  "asof": "2026-11-19",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "LREN3",
+  "slug": "lren3",
+  "name": "Lojas Renner",
+  "sector": "Varejo de moda",
+  "asof": "2026-11-20",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "CEAB3",
+  "slug": "ceab3",
+  "name": "C&A Modas",
+  "sector": "Varejo de moda",
+  "asof": "2026-11-20",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "AZZA3",
+  "slug": "azza3",
+  "name": "Azzas 2154",
+  "sector": "Varejo de moda e calçados",
+  "asof": "2026-11-20",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "ASAI3",
+  "slug": "asai3",
+  "name": "Assaí Atacadista",
+  "sector": "Varejo alimentar (atacarejo)",
+  "asof": "2026-11-20",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "MGLU3",
+  "slug": "mglu3",
+  "name": "Magazine Luiza",
+  "sector": "Varejo eletro e digital",
+  "asof": "2026-11-20",
+  "group": "Varejo"
+ },
+ {
+  "ticker": "BBAS3",
+  "slug": "bbas3",
+  "name": "Banco do Brasil",
+  "sector": "Bancos",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "BBDC4",
+  "slug": "bbdc4",
+  "name": "Bradesco",
+  "sector": "Bancos",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "ITUB4",
+  "slug": "itub4",
+  "name": "Itaú Unibanco",
+  "sector": "Bancos",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "BPAC11",
+  "slug": "bpac11",
+  "name": "BTG Pactual",
+  "sector": "Bancos",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "SANB11",
+  "slug": "sanb11",
+  "name": "Santander Brasil",
+  "sector": "Bancos",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "B3SA3",
+  "slug": "b3sa3",
+  "name": "B3",
+  "sector": "Infraestrutura de mercado",
+  "asof": "2026-11-20",
+  "group": "Financeiro"
+ },
+ {
+  "ticker": "PETR4",
+  "slug": "petr4",
+  "name": "Petrobras",
+  "sector": "Petróleo e gás",
+  "asof": "2026-11-20",
+  "group": "Petróleo e mineração"
+ },
+ {
+  "ticker": "VALE3",
+  "slug": "vale3",
+  "name": "Vale",
+  "sector": "Mineração",
+  "asof": "2026-11-20",
+  "group": "Petróleo e mineração"
+ }
+]

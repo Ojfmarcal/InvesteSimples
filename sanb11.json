@@ -1,0 +1,202 @@
+{
+ "meta": {
+  "ticker": "SANB11",
+  "name": "Santander Brasil",
+  "sector": "Bancos",
+  "valuation_model": "multiples",
+  "price": null,
+  "price_date": "cotação não confirmada",
+  "asof": "20/11/2026",
+  "quality": "A página de indicadores do Investidor10 trouxe números que não batem entre si (valor de mercado, patrimônio e cotação), então não os uso. Resultado do 3T26 não coletado. Esta página cobre só a oferta (OPA) da matriz.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Matriz do Santander faz oferta por até ",
+   "10%",
+   " do Brasil."
+  ],
+  "lede": "A oferta é de permuta (troca de papéis), com prêmio de 15% sobre o fechamento de 30/07, e ainda depende de aprovações regulatórias. O banco continuará listado na B3, mas a liquidez pode cair se muitos acionistas aderirem.",
+  "stats": [
+   {
+    "value": "até 10%",
+    "label": "do capital na oferta"
+   },
+   {
+    "value": "15%",
+    "label": "prêmio sobre 30/07"
+   },
+   {
+    "value": "~R$ 11 bi",
+    "label": "custo máximo (€ 1,9 bi)"
+   },
+   {
+    "value": "1º sem/27",
+    "label": "prazo previsto"
+   }
+  ],
+  "strip": [
+   "Troca: 0,4056 papel do Santander Espanha por unit",
+   "Oferta ainda não lançada",
+   "Depende de aprovações e de aumento de capital da matriz",
+   "Santander Brasil continuará listado na B3"
+  ],
+  "events_sub": "OPA · 2026",
+  "events": [
+   {
+    "abbr": "OP",
+    "title": "OPA de permuta",
+    "sub": "Até € 1,9 bi, cerca de R$ 11 bi",
+    "tag": "oferta",
+    "tone": "pos"
+   },
+   {
+    "abbr": "PR",
+    "title": "Prévia de resultado",
+    "sub": "Frustrou o mercado (manchete do Investidor10)",
+    "tag": "resultado",
+    "tone": "neg"
+   }
+  ]
+ },
+ "results": {
+  "title": "Termos da oferta",
+  "sub": "matriz do Santander",
+  "rows": [
+   {
+    "label": "Relação de troca (unit/ADS)",
+    "value": "0,4056 BDR/ADS"
+   },
+   {
+    "label": "Relação de troca (ação)",
+    "value": "0,2028 BDR/ADS"
+   },
+   {
+    "label": "Prêmio",
+    "value": "15% sobre o fechamento de 30/07"
+   },
+   {
+    "label": "Alcance",
+    "value": "até 10% do capital"
+   },
+   {
+    "label": "Tamanho",
+    "value": "até € 1,9 bi (~R$ 11 bi)"
+   },
+   {
+    "label": "Prazo",
+    "value": "1º semestre de 2027"
+   },
+   {
+    "label": "Status",
+    "value": "ainda não lançada"
+   }
+  ],
+  "note": "Dependências: aprovações regulatórias, aumento de capital da matriz e ausência de efeito adverso relevante."
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bancos",
+  "sub": "contexto",
+  "bullets": [
+   "Itaú e Bradesco mantêm lucro em alta; o BB sofre com o agro.",
+   "O Santander Brasil é o único da lista com oferta de permuta da própria matriz.",
+   "Selic em 13,75% sustenta a margem e pesa no crédito."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Prêmio de 15% sobre o fechamento de 30/07 para quem aderir.",
+   "Interesse da matriz sinaliza confiança no banco no Brasil."
+  ],
+  "cons": [
+   "A oferta é de troca de papéis, não de dinheiro: o acionista passa a ter papel do Santander Espanha.",
+   "Se muitos aderirem, a liquidez da ação pode cair bastante.",
+   "A oferta ainda depende de aprovações e não tem data de leilão.",
+   "Sem dados de resultado do 3T26 nesta versão."
+  ],
+  "guidance": [
+   [
+    "Prazo previsto",
+    "1º semestre de 2027"
+   ]
+  ],
+  "watch": "Observar: lançamento formal, preço da relação de troca e a liquidez da unit."
+ },
+ "timeline": [
+  {
+   "date": "2026",
+   "event": "Matriz anuncia a oferta de até R$ 11 bi",
+   "why": "A ação disparou 13% na ocasião (manchete do Investidor10)"
+  }
+ ],
+ "competitive": [],
+ "sources": "Investidor10 (matéria sobre a OPA e manchetes do SANB11). Resultado, indicadores e cotação não confirmados nesta versão."
+}

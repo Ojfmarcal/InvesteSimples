@@ -1,0 +1,401 @@
+{
+ "meta": {
+  "ticker": "ITUB4",
+  "name": "Itaú Unibanco",
+  "sector": "Bancos",
+  "valuation_model": "pvp",
+  "price": 39.94,
+  "price_date": "04/11/2026",
+  "asof": "21/11/2026",
+  "quality": "Os dados do 3T26 vêm do release oficial do Itaú (6-K na SEC, 03/11/2026). A cotação de R$ 39,94 é de 04/11; a Genial usa R$ 38,69 de 30/10. O VPA de R$ 19,06 é implícito (R$ 38,69 ÷ P/VP de 2,03x projetado pela Genial, cálculo meu): confirme no balanço. Premissas do modelo base são as da Genial.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Itaú entrega ROE de ",
+   "23,6%",
+   " e lucro de R$ 12,6 bi."
+  ],
+  "lede": "O lucro recorrente do 3T26 foi de R$ 12,6 bilhões, em linha com o consenso (R$ 12,58 bi). A margem e a alíquota de imposto compensaram serviços e seguros mais fracos. A inadimplência de 90 dias subiu a 2,0% e o capital (CET1) está em 12,7%.",
+  "stats": [
+   {
+    "value": "R$ 12,6 bi",
+    "label": "lucro recorrente 3T26",
+    "tone": "up"
+   },
+   {
+    "value": "23,6%",
+    "label": "ROE recorrente"
+   },
+   {
+    "value": "2,0%",
+    "label": "inadimplência 90+"
+   },
+   {
+    "value": "12,7%",
+    "label": "capital principal (CET1)"
+   }
+  ],
+  "strip": [
+   "Carteira de crédito: R$ 1,5 tri (+2,2% no trimestre)",
+   "Custo do crédito: R$ 10,4 bi (2,7% a.a.)",
+   "Eficiência (Brasil): 35,7%",
+   "Alvo Genial: R$ 54,70",
+   "Alíquota 2026: guidance revisado para 28–29%"
+  ],
+  "events_sub": "3T26 · 03/11/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "R$ 12,6 bi, em linha com o consenso",
+    "tag": "lucro",
+    "tone": "pos"
+   },
+   {
+    "abbr": "IR",
+    "title": "Guidance de alíquota",
+    "sub": "Revisado para 28,0%–29,0%",
+    "tag": "guidance",
+    "tone": "pos"
+   },
+   {
+    "abbr": "SE",
+    "title": "Seguros e serviços",
+    "sub": "Abaixo da estimativa da Genial (-10,4% e -1,0%)",
+    "tag": "risco",
+    "tone": "neg"
+   },
+   {
+    "abbr": "GE",
+    "title": "Genial: compra",
+    "sub": "Alvo de R$ 54,70, alta de 41,4%",
+    "tag": "alvo",
+    "tone": "pos"
+   }
+  ]
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Itaú · release de 03/11/2026",
+  "rows": [
+   {
+    "label": "Lucro recorrente",
+    "value": "R$ 12,62 bi (+6,2% a/a)",
+    "tone": "up",
+    "tip": "Consenso Bloomberg: R$ 12,58 bi"
+   },
+   {
+    "label": "ROE recorrente",
+    "value": "23,6% (+0,3 p.p. a/a; -0,7 p.p. t/t)"
+   },
+   {
+    "label": "Margem com clientes",
+    "value": "R$ 33,3 bi (+6,9% a/a)"
+   },
+   {
+    "label": "Carteira de crédito",
+    "value": "R$ 1,5 tri (+2,2% t/t)"
+   },
+   {
+    "label": "Inadimplência 90 dias",
+    "value": "2,0%",
+    "tone": "dn"
+   },
+   {
+    "label": "Inadimplência 15–90 dias",
+    "value": "1,7%"
+   },
+   {
+    "label": "Custo do crédito",
+    "value": "R$ 10,4 bi (2,7% a.a., estável)"
+   },
+   {
+    "label": "Despesas não-juros",
+    "value": "R$ 17,1 bi (+2,4% t/t)"
+   },
+   {
+    "label": "Eficiência (Brasil)",
+    "value": "35,7% (ante 37,1% no 3T25)",
+    "tone": "up"
+   },
+   {
+    "label": "CET1",
+    "value": "12,7%",
+    "tip": "O release cita 11,5% numa nota de cálculo do ROE hipotético"
+   }
+  ],
+  "note": "Lucro a/a de +6,2% segundo a Suno; outras fontes citam +6,7%. Confira o release."
+ },
+ "targets": {
+  "rows": [
+   {
+    "who": "Genial (compra)",
+    "value": 54.7
+   }
+  ],
+  "note": "Alvo da Genial de 04/11/2026. UBS BB cortou o alvo, sem número citado."
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bancos",
+  "sub": "contexto",
+  "bullets": [
+   "O Itaú segue como o banco de maior valor de mercado da lista, com lucro recorrente em alta de 6,2%.",
+   "BTG caiu 31% entre 20/10 e 11/11 após o resultado eleitoral.",
+   "Selic em 13,75% sustenta a margem e pesa no crédito."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "ROE recorrente de 23,6%, o mais alto entre os grandes bancos da lista.",
+   "Lucro em linha com o consenso e margem com clientes +6,9% a/a.",
+   "Eficiência de 35,7%, melhor que os 37,1% de um ano antes.",
+   "Inadimplência de pessoas físicas (+15 dias) de 6,7%, contra 13,1% do sistema.",
+   "Alíquota de imposto de 2026 revisada para baixo (28–29%).",
+   "Dividend yield estimado de 7,3% em 2026 e 8,5% em 2027."
+  ],
+  "cons": [
+   "NPL 90 dias subiu a 2,0%, com alta em micro, pequenas e médias empresas.",
+   "Seguros (-10,4%) e serviços (-1,0%) abaixo da estimativa da Genial.",
+   "O lucro de 2026 depende de um 4T26 forte, de cerca de R$ 13,3 bi.",
+   "Margem com clientes perto do piso do guidance no ano.",
+   "Custo do hedge do capital de R$ 0,6–0,7 bi por trimestre com a Selic alta.",
+   "P/VP de 2,0x já paga por qualidade: pouco espaço para erro."
+  ],
+  "guidance": [
+   [
+    "Alíquota efetiva 2026",
+    "28,0%–29,0%"
+   ],
+   [
+    "Lucro necessário no 4T26 (Genial)",
+    "~R$ 13,3 bi"
+   ],
+   [
+    "Alvo Genial",
+    "R$ 54,70"
+   ],
+   [
+    "Hedge de capital",
+    "R$ 0,6–0,7 bi/tri"
+   ]
+  ],
+  "watch": "Observar: volatilidade da tesouraria no 4T26 pós-eleição, serviços e seguros, inadimplência de MPMEs e revisão de alvos."
+ },
+ "timeline": [
+  {
+   "date": "jul/2026",
+   "event": "Venda do varejo da Colômbia",
+   "why": "Afeta a comparação trimestral"
+  },
+  {
+   "date": "30/10",
+   "event": "Cotação de R$ 38,69 (base do alvo da Genial)",
+   "why": "Ponto de preço datado"
+  },
+  {
+   "date": "03/11",
+   "event": "Itaú divulga o 3T26",
+   "why": "R$ 12,6 bi, ROE de 23,6%, guidance de alíquota revisado"
+  },
+  {
+   "date": "04/11",
+   "event": "Genial reitera compra, alvo de R$ 54,70",
+   "why": "Ação a R$ 39,94; UBS BB corta o alvo"
+  }
+ ],
+ "competitive": [
+  "ROE de 23,6% contra 13,0% do Bradesco e 5,9% do Banco do Brasil (12 meses, Investidor10).",
+  "Maior valor de mercado da lista (~R$ 467 bi)."
+ ],
+ "sources": "Release oficial do 3T26 (6-K na SEC, 03/11/2026), Genial Análises (04/11/2026), Suno, Money Times, Investidor10. Sem DCF; o modelo é um P/VP justo simples.",
+ "margins": {
+  "sub": "3T26 · release oficial",
+  "rows": [
+   {
+    "label": "ROE recorrente",
+    "value": 23.6
+   },
+   {
+    "label": "Eficiência (Brasil)",
+    "value": 35.7
+   },
+   {
+    "label": "CET1",
+    "value": 12.7
+   },
+   {
+    "label": "NPL 90 dias",
+    "value": 2.0
+   }
+  ],
+  "note": "Eficiência: quanto menor, melhor."
+ },
+ "indicators": {
+  "sub": "Genial (projeções 2026E) e preço de 04/11",
+  "rows": [
+   {
+    "label": "Cotação (04/11)",
+    "value": "R$ 39,94"
+   },
+   {
+    "label": "P/L 2026E",
+    "value": "8,4x",
+    "tip": "Genial"
+   },
+   {
+    "label": "P/L 2027E",
+    "value": "7,5x",
+    "tip": "Genial"
+   },
+   {
+    "label": "P/VP 2026E",
+    "value": "2,03x",
+    "tip": "Genial, sobre R$ 38,69 de 30/10"
+   },
+   {
+    "label": "Dividend yield 2026E",
+    "value": "7,3%",
+    "tip": "Genial"
+   },
+   {
+    "label": "Dividend yield 2027E",
+    "value": "8,5%",
+    "tip": "Genial"
+   },
+   {
+    "label": "VPA implícito",
+    "value": "R$ 19,06",
+    "tip": "R$ 38,69 ÷ 2,03; cálculo meu"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "~R$ 467 bi",
+    "tip": "Matéria de 04/11"
+   }
+  ]
+ },
+ "pvp": {
+  "bvps": 19.06,
+  "note": "Base = premissas da Genial: ROE sustentável 22%, Ke 14,55% e crescimento 9,8% (nominal, com inflação). A Genial chega a R$ 54,70 com um modelo de projeção completo; este P/VP justo é uma versão simples e dá outro número.",
+  "presets": {
+   "bear": {
+    "roe": 19,
+    "ke": 15.5,
+    "g": 8
+   },
+   "base": {
+    "roe": 22,
+    "ke": 14.5,
+    "g": 9.8
+   },
+   "bull": {
+    "roe": 24,
+    "ke": 14,
+    "g": 10
+   }
+  },
+  "sliders": {
+   "roe": {
+    "label": "ROE sustentável",
+    "min": 10,
+    "max": 30,
+    "step": 0.5
+   },
+   "ke": {
+    "label": "Custo do capital (Ke)",
+    "min": 11,
+    "max": 20,
+    "step": 0.5
+   },
+   "g": {
+    "label": "Crescimento perpétuo",
+    "min": 4,
+    "max": 11,
+    "step": 0.1
+   }
+  },
+  "sens": {
+   "ke": [
+    13.5,
+    14.5,
+    15.5,
+    16.5
+   ],
+   "g": [
+    8,
+    9,
+    9.8,
+    10.5
+   ]
+  }
+ }
+}

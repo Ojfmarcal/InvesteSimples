@@ -1,0 +1,299 @@
+{
+ "meta": {
+  "ticker": "BBAS3",
+  "name": "Banco do Brasil",
+  "sector": "Bancos",
+  "valuation_model": "pvp",
+  "price": 14.3,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e indicadores vêm do Investidor10 sem data (valor de mercado e número de ações batem com a cotação). Os dados de 3T26 vêm de manchetes e matérias. Não coletei Basileia nem guidance atualizado.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Banco do Brasil lucra ",
+   "66% menos",
+   " com o agro inadimplente."
+  ],
+  "lede": "O lucro do 3T26 foi de R$ 1,3 bilhão (-66,5%), abaixo das projeções, com o ROE \"no chão\". A ação negocia a 0,44x o valor patrimonial: o mercado já precifica uma recuperação lenta.",
+  "stats": [
+   {
+    "value": "-32,3%",
+    "label": "cotação em 12 meses",
+    "tone": "dn"
+   },
+   {
+    "value": "0,44x",
+    "label": "P/VP"
+   },
+   {
+    "value": "R$ 82 bi",
+    "label": "valor de mercado"
+   },
+   {
+    "value": "4,8%",
+    "label": "dividend yield"
+   }
+  ],
+  "strip": [
+   "Lucro 3T26: R$ 1,3 bi (-66,5%)",
+   "ROE (12m): 5,9%",
+   "P/L: 7,4x",
+   "VPA: R$ 32,48",
+   "Payout: 35,9%"
+  ],
+  "events_sub": "3T26 · nov/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 1,3 bi, abaixo das projeções",
+    "tag": "lucro",
+    "tone": "neg"
+   },
+   {
+    "abbr": "AG",
+    "title": "Inadimplência do agro",
+    "sub": "Principal pressão sobre o lucro",
+    "tag": "crédito",
+    "tone": "neg"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "ROE",
+    "value": 5.92
+   },
+   {
+    "label": "ROA",
+    "value": 0.55
+   },
+   {
+    "label": "Payout",
+    "value": 35.92
+   }
+  ],
+  "note": "Fonte: Investidor10, sem data."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Banco do Brasil",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 1,3 bi (-66,5%)",
+    "tone": "dn"
+   },
+   {
+    "label": "Projeções do mercado",
+    "value": "frustradas"
+   },
+   {
+    "label": "Causa principal",
+    "value": "inadimplência do agro"
+   }
+  ],
+  "note": "Detalhes de carteira, Basileia e guidance não foram coletados. Confira o release do 3T26."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "7,44x"
+   },
+   {
+    "label": "P/VP",
+    "value": "0,44x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "4,77%"
+   },
+   {
+    "label": "ROE",
+    "value": "5,92%"
+   },
+   {
+    "label": "ROA",
+    "value": "0,55%"
+   },
+   {
+    "label": "Patrimônio líquido",
+    "value": "R$ 186,1 bi"
+   },
+   {
+    "label": "VPA",
+    "value": "R$ 32,48"
+   },
+   {
+    "label": "LPA",
+    "value": "R$ 1,92"
+   },
+   {
+    "label": "Ações",
+    "value": "5,73 bi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 81,95 bi"
+   }
+  ]
+ },
+ "pvp": {
+  "bvps": 32.48,
+  "note": "ROE atual de 5,9%. O modelo mostra o quanto vale cada recuperação de rentabilidade. Premissas minhas.",
+  "presets": {
+   "bear": {
+    "roe": 7,
+    "ke": 16,
+    "g": 3
+   },
+   "base": {
+    "roe": 10,
+    "ke": 15,
+    "g": 3
+   },
+   "bull": {
+    "roe": 14,
+    "ke": 14,
+    "g": 4
+   }
+  },
+  "sliders": {
+   "roe": {
+    "label": "ROE sustentável",
+    "min": 3,
+    "max": 30,
+    "step": 0.5
+   },
+   "ke": {
+    "label": "Custo do capital (Ke)",
+    "min": 10,
+    "max": 20,
+    "step": 0.5
+   },
+   "g": {
+    "label": "Crescimento perpétuo",
+    "min": 1,
+    "max": 6,
+    "step": 0.5
+   }
+  },
+  "sens": {
+   "ke": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "g": [
+    2,
+    3,
+    4,
+    5
+   ]
+  }
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bancos",
+  "sub": "contexto",
+  "bullets": [
+   "Bradesco e Itaú lucram mais; o BB é o ponto fora da curva por causa do crédito agro.",
+   "Bancos de varejo e o BTG caíram após o resultado eleitoral (BTG: -31% entre 20/10 e 11/11).",
+   "Selic em 13,75% sustenta a margem, mas encarece o crédito do agro."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "P/VP de 0,44x: preço bem abaixo do patrimônio.",
+   "P/L de 7,4x sobre o lucro de 12 meses.",
+   "Recuperação do ROE para dois dígitos mudaria o preço justo (veja o modelo).",
+   "Payout de 35,9% deixa espaço para dividendos maiores."
+  ],
+  "cons": [
+   "Lucro do 3T26 caiu 66,5% e frustrou projeções já baixas.",
+   "ROE de 5,9% está abaixo do custo de capital.",
+   "Inadimplência do agro segue desafiando a recuperação.",
+   "Ação -32,3% em 12 meses."
+  ],
+  "guidance": [],
+  "watch": "Observar: inadimplência do agro, provisões, ROE e a política de dividendos nos próximos trimestres."
+ },
+ "timeline": [],
+ "competitive": [],
+ "sources": "Investidor10 (página BBAS3), Seu Dinheiro, SBT News, Gazeta do Povo, NeoFeed (manchetes do 3T26)."
+}

@@ -1,0 +1,282 @@
+{
+ "meta": {
+  "ticker": "ASAI3",
+  "name": "Assaí Atacadista",
+  "sector": "Varejo alimentar (atacarejo)",
+  "valuation_model": "multiples",
+  "price": 9.38,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm do Investidor10 sem data. A alavancagem de 2,15x é a do release do 3T26; a página do Investidor10 mostra 1,71x (critérios diferentes). Não há DCF nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Assaí corta a alavancagem, mas o lucro ",
+   "recorrente",
+   " decepciona."
+  ],
+  "lede": "O lucro recorrente do 3T26 foi de R$ 248 milhões (+55%), abaixo do consenso de R$ 287 milhões. O contábil (R$ 427 mi) tem crédito de PIS/Cofins. A alavancagem caiu a 2,15x e as vendas de outubro aceleraram.",
+  "stats": [
+   {
+    "value": "+1,1%",
+    "label": "cotação em 12 meses"
+   },
+   {
+    "value": "2,15x",
+    "label": "dívida líquida / EBITDA"
+   },
+   {
+    "value": "R$ 12,7 bi",
+    "label": "valor de mercado"
+   },
+   {
+    "value": "1,90x",
+    "label": "P/VP"
+   }
+  ],
+  "strip": [
+   "Receita líquida 3T26: ~R$ 19 bi (estável)",
+   "EBITDA: R$ 1,08 bi",
+   "Lucro recorrente: R$ 248 mi (+55,2%)",
+   "Mesmas lojas: +0,1% (outubro: +3,9%)",
+   "Alavancagem: 2,15x (ante 3,03x)"
+  ],
+  "events_sub": "3T26 · nov/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Recorrente de R$ 248 mi, abaixo do consenso",
+    "tag": "lucro",
+    "tone": "neutral"
+   },
+   {
+    "abbr": "AL",
+    "title": "Alavancagem",
+    "sub": "2,15x, ante 3,03x há um ano",
+    "tag": "dívida",
+    "tone": "pos"
+   },
+   {
+    "abbr": "OU",
+    "title": "Vendas de outubro",
+    "sub": "Mesmas lojas +3,9%",
+    "tag": "vendas",
+    "tone": "pos"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "Margem EBITDA",
+    "value": 8.55
+   },
+   {
+    "label": "Margem líquida",
+    "value": 1.54
+   },
+   {
+    "label": "ROE",
+    "value": 17.93
+   },
+   {
+    "label": "ROIC",
+    "value": 20.34
+   }
+  ],
+  "note": "Fonte: Investidor10, sem data."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Assaí",
+  "rows": [
+   {
+    "label": "Receita líquida",
+    "value": "~R$ 19 bi (estável)"
+   },
+   {
+    "label": "EBITDA",
+    "value": "R$ 1,08 bi"
+   },
+   {
+    "label": "Lucro recorrente",
+    "value": "R$ 248 mi (+55,2%)",
+    "tip": "Consenso Bloomberg: R$ 287 mi"
+   },
+   {
+    "label": "Lucro contábil",
+    "value": "R$ 427 mi (+119%)",
+    "tip": "Inclui crédito de PIS/Cofins"
+   },
+   {
+    "label": "Mesmas lojas",
+    "value": "+0,1%"
+   },
+   {
+    "label": "Mesmas lojas em outubro",
+    "value": "+3,9%",
+    "tone": "up"
+   },
+   {
+    "label": "Dívida líquida/EBITDA",
+    "value": "2,15x (ante 3,03x)",
+    "tone": "up"
+   }
+  ],
+  "note": "Há divergência entre fontes sobre o EBITDA esperado; confira o release."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "10,61x"
+   },
+   {
+    "label": "P/VP",
+    "value": "1,90x"
+   },
+   {
+    "label": "EV/EBITDA",
+    "value": "3,63x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "1,11%"
+   },
+   {
+    "label": "ROE",
+    "value": "17,93%"
+   },
+   {
+    "label": "ROIC",
+    "value": "20,34%"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "R$ 11,37 bi"
+   },
+   {
+    "label": "Dív. líquida/EBITDA",
+    "value": "1,71x",
+    "tip": "Release do 3T26: 2,15x"
+   },
+   {
+    "label": "Ações",
+    "value": "1,354 bi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 12,70 bi"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o custo de capital.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Varejo alimentar",
+  "sub": "contexto",
+  "bullets": [
+   "Prévias operacionais de Assaí e Carrefour reforçaram cautela com o varejo alimentar (InfoMoney).",
+   "Carrefour Brasil saiu da Bolsa e não entra nesta lista.",
+   "O Assaí vê melhora nas vendas após o fim das bets (manchete do Investidor10)."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Alavancagem caiu de 3,03x para 2,15x em um ano.",
+   "Lucro recorrente +55,2% a/a.",
+   "Vendas de outubro aceleraram para +3,9% em mesmas lojas.",
+   "ROIC de 20,3%."
+  ],
+  "cons": [
+   "Lucro recorrente de R$ 248 mi ficou abaixo do consenso de R$ 287 mi.",
+   "Mesmas lojas de apenas +0,1% no trimestre.",
+   "Margem líquida de 1,5% deixa pouca folga com juros altos.",
+   "Dívida líquida de R$ 11,4 bi com Selic em 13,75%."
+  ],
+  "guidance": [
+   [
+    "Investimento 2026",
+    "R$ 700 mi"
+   ],
+   [
+    "Alavancagem",
+    "2,15x"
+   ]
+  ],
+  "watch": "Observar: mesmas lojas, despesas financeiras e a continuidade da recuperação de outubro."
+ },
+ "timeline": [],
+ "competitive": [],
+ "sources": "Investidor10 (página ASAI3 e notícias), Brapi, Money Times, InfoMoney, Super Varejo. Sem DCF nesta versão."
+}

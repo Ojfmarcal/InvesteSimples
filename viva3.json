@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "ticker": "VIVA3",
+    "name": "Vivara Participações",
+    "sector": "Varejo de joias e acessórios",
+    "listing": "Novo Mercado",
+    "valuation_model": "dcf",
+    "price": 16.37,
+    "price_date": "17/11/2026",
+    "asof": "19/11/2026",
+    "disclaimer": "Análise estruturada com dados públicos e premissas minhas. Não é recomendação de investimento."
+  },
+  "hero": {
+    "headline": ["Vivara perdeu quase ", "metade", " do valor em um ano."],
+    "lede": "O que o mercado está precificando: margem, juros, ouro e consumo. Análise com dados públicos e premissas minhas, sem recomendação de compra ou venda.",
+    "stats": [
+      { "value": "-50,7%", "label": "cotação em 12 meses", "tone": "dn" },
+      { "value": "~0,2x", "label": "dívida líquida / EBITDA" },
+      { "value": "R$ 3,9 bi", "label": "valor de mercado" },
+      { "value": "~5,5x", "label": "EV/EBITDA (LTM)" }
+    ],
+    "strip": [
+      "Dívida líquida R$ 150 mi, -57,8% a/a",
+      "Guepardo chega a 10,17% do capital",
+      "Copom mantém Selic em 13,75%",
+      "Ouro a US$ 3.853, menor nível desde set/25",
+      "Debêntures de R$ 300 mi, AAA.br"
+    ],
+    "events_sub": "nov/2026",
+    "events": [
+      { "abbr": "3T", "title": "Resultado do 3T26", "sub": "Lucro ajustado -22,2%", "tag": "margem", "tone": "neg" },
+      { "abbr": "GP", "title": "Guepardo", "sub": "10,17% do capital", "tag": "compra", "tone": "pos" },
+      { "abbr": "CP", "title": "Copom", "sub": "Selic mantida em 13,75%", "tag": "juros", "tone": "neutral" },
+      { "abbr": "BT", "title": "BTG Pactual", "sub": "Compra, alvo R$ 36", "tag": "alvo", "tone": "pos" }
+    ]
+  },
+  "margins": {
+    "sub": "% da receita",
+    "rows": [
+      { "label": "Bruta (4T25)", "value": 72.3 },
+      { "label": "EBITDA aj.", "value": 19.1 },
+      { "label": "Líquida aj.", "value": 17.3 }
+    ],
+    "note": "Bruta de 4T25 (72,3%). EBITDA e líquida ajustados do 3T26."
+  },
+  "quarters": {
+    "labels": ["1T25", "2T25", "3T25", "4T25", "1T26", "2T26", "3T26"],
+    "revenue": [537.1, 761.0, 664.5, 1000.0, null, 833.1, 692.9],
+    "revenue_sub": "R$ mi",
+    "ebitda": [101.1, 204.6, 170.9, 286.1, null, null, 132.7],
+    "ebitda_sub": "R$ mi, pré-IFRS 16",
+    "highlight": 6
+  },
+  "compare": {
+    "a": "3T25",
+    "b": "3T26",
+    "sub": "visão ajustada",
+    "rows": [
+      { "label": "Receita líq.", "a": 664.5, "b": 692.9, "unit": "R$ mi" },
+      { "label": "EBITDA aj.", "a": 170.9, "b": 132.7, "unit": "R$ mi" },
+      { "label": "Lucro líq. aj.", "a": 154.0, "b": 119.9, "unit": "R$ mi" },
+      { "label": "Margem EBITDA", "a": 25.7, "b": 19.1, "unit": "%" }
+    ],
+    "note": "Joias +2,1% (repasse de preço segurado), Life +10,3%, relógios +15,5%, digital +25,3%. Mesmas lojas +4,4%."
+  },
+  "price_points": {
+    "sub": "linha tracejada liga os pontos; não é série diária",
+    "points": [
+      { "date": "2025-11-26", "value": 35.32, "label": "26/11/25" },
+      { "date": "2026-01-02", "value": 33.24, "label": "início de 2026" },
+      { "date": "2026-05-08", "value": 26.57, "label": "08/05/26" },
+      { "date": "2026-08-08", "value": 21.61, "label": "08/08/26" },
+      { "date": "2026-10-30", "value": 17.30, "label": "30/10/26" },
+      { "date": "2026-11-05", "value": 18.19, "label": "05/11/26" },
+      { "date": "2026-11-17", "value": 16.37, "label": "17/11/26" }
+    ],
+    "low52": 16.29,
+    "high52": 35.89
+  },
+  "indicators": {
+    "sub": "fontes de 05 a 17/11/2026",
+    "rows": [
+      { "label": "P/L (LTM)", "value": "6,5x a 8,3x", "tip": "Dados de Mercado 8,3x (base R$ 18,20); Google Finance 7,3x; com R$ 16,37 e EPS de R$ 2,50 sai 6,5x" },
+      { "label": "P/VP", "value": "1,2x a 1,3x" },
+      { "label": "EV/EBITDA (LTM)", "value": "~5,5x", "tip": "Cálculo meu: (R$ 3,87 bi + R$ 0,15 bi) ÷ EBITDA ajustado de 12 meses (~R$ 736 mi)" },
+      { "label": "Dividend yield", "value": "~4,3%" },
+      { "label": "ROIC (companhia, 1T26)", "value": "23,1%" },
+      { "label": "Conversão EBITDA em caixa (9M26)", "value": "71%" },
+      { "label": "Giro de estoques", "value": "582 dias" },
+      { "label": "Free float", "value": "41,7%" }
+    ]
+  },
+  "dcf": {
+    "base_revenue": 2962,
+    "base_year": 2025,
+    "first_year": 2027,
+    "net_debt": 149.7,
+    "shares": 236.2,
+    "fixed": { "da": 0.025, "capex": 0.03, "nwc": 0.30, "tax": 0.15 },
+    "presets": {
+      "bear": { "g26": 4, "g": 6, "m": 19, "w": 16.5, "tg": 4 },
+      "base": { "g26": 7, "g": 9, "m": 22, "w": 15, "tg": 4.5 },
+      "bull": { "g26": 9, "g": 12, "m": 25, "w": 14, "tg": 5 }
+    },
+    "sliders": {
+      "g26": { "label": "Cresc. 2026", "min": 2, "max": 12, "step": 0.5 },
+      "g": { "label": "Cresc. 2027-31", "min": 3, "max": 15, "step": 0.5 },
+      "m": { "label": "Margem EBITDA", "min": 16, "max": 28, "step": 0.5 },
+      "w": { "label": "WACC", "min": 12, "max": 19, "step": 0.5 },
+      "tg": { "label": "Cresc. perpétuo", "min": 3, "max": 6, "step": 0.25 }
+    },
+    "sens": { "wacc": [13, 14, 15, 16, 17], "g": [3.5, 4, 4.5, 5, 5.5] },
+    "note": "Fixos: deprec. 2,5% da receita, capex 3%, giro 30% da receita incremental, alíquota 15%, dív. líq. R$ 149,7 mi, 236,2 mi de ações."
+  },
+  "targets": {
+    "rows": [
+      { "who": "BTG (06/11)", "value": 36 },
+      { "who": "Monte Bravo (mai)", "value": 35.64 },
+      { "who": "XP (jun)", "value": 35 },
+      { "who": "Itaú BBA", "value": 33 },
+      { "who": "BofA e Citi", "value": 32 },
+      { "who": "Safra (neutro)", "value": 30 },
+      { "who": "Santander (antigo)", "value": 30 }
+    ],
+    "note": "Vários alvos são anteriores à queda de novembro."
+  },
+  "macro": {
+    "sub": "Copom 04/11 · Focus 09/11",
+    "tiles": [
+      { "label": "Selic", "value": "13,75%", "note": "pico de 15% até mar/26" },
+      { "label": "IPCA 2026", "value": "5,22%", "note": "teto da meta: 4,5%" },
+      { "label": "PIB 2026", "value": "1,75%", "note": "2027: 1,15%" },
+      { "label": "Dólar", "value": "R$ 5,78", "note": "16/11 · Focus fim/26: 5,35" }
+    ],
+    "bullets": [
+      "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o WACC.",
+      "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+      "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+    ],
+    "selic": {
+      "sub": "Focus de 09/11 · % a.a.",
+      "points": [
+        { "label": "Dez/26", "value": 13.75 }, { "label": "1ª/27", "value": 13.75 },
+        { "label": "2ª/27", "value": 13.5 }, { "label": "3ª/27", "value": 13.5 },
+        { "label": "4ª/27", "value": 13.5 }, { "label": "5ª/27", "value": 13.25 },
+        { "label": "6ª/27", "value": 13.0 }, { "label": "7ª/27", "value": 12.75 }
+      ],
+      "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+    }
+  },
+  "commodity": {
+    "title": "Ouro",
+    "sub": "US$ por onça-troy",
+    "bars": [
+      { "label": "Recorde (jan/26)", "value": 5181 },
+      { "label": "Média 2026 (HSBC)", "value": 4490 },
+      { "label": "14/08/26", "value": 4333 },
+      { "label": "11/11/26", "value": 4000 },
+      { "label": "16/11/26", "value": 3853, "highlight": true }
+    ],
+    "note": "Cerca de 26% abaixo do recorde de janeiro. HSBC vê média de US$ 4.490 em 2026. Prata em ~US$ 55 no fim de out., após alta de 139% a/a no início do ano, o que pressionou a Life."
+  },
+  "thesis": {
+    "pros": [
+      "Múltiplos comprimidos e ação perto da mínima de 52 semanas.",
+      "Dívida líquida de 0,2x EBITDA, rating AAA.br e 71% de conversão de EBITDA em caixa (9M26).",
+      "ROIC acima de 20% pela métrica da empresa.",
+      "Recompra de até 10% e Guepardo com 10,17% do capital.",
+      "Ouro mais barato pode recompor a margem em 2027 se o repasse voltar."
+    ],
+    "cons": [
+      "EBITDA ajustado -22,4% no 3T26; despesas crescem acima da receita.",
+      "Estoque de 582 dias, risco apontado pelo Safra.",
+      "Life com vendas em mesmas lojas fracas e canibalização entre marcas.",
+      "Selic a 13,75% e PIB de 1,15% esperado em 2027.",
+      "Quatro presidentes desde 2024; beta ~1,27; menor receita de subvenção fiscal."
+    ],
+    "guidance": [
+      ["Lojas em 2026", "55–65"], ["Abertas até set.", "35"], ["Pontos de venda", "533"],
+      ["Recompra até 06/05/27", "12,4 mi ações"], ["Debêntures (out.)", "R$ 300 mi · CDI+0,65%"]
+    ],
+    "watch": "Observar: vendas do 4T26 (Natal e Black Friday), meta de lojas de 2027, reajuste de preços das joias e cortes do Copom em 2027."
+  },
+  "timeline": [
+    { "date": "16/11", "event": "Dólar a R$ 5,78; ouro a US$ 3.853, menor nível desde set/25", "why": "Ouro barato ajuda a margem; câmbio pesa no humor do mercado" },
+    { "date": "06/11", "event": "Ação cai ~8%; BTG mantém compra, alvo R$ 36", "why": "Mercado puniu a margem; bancos ainda veem upside" },
+    { "date": "05/11", "event": "3T26: lucro ajustado -22,2%, EBITDA -22,4%", "why": "Repasse de preço segurado reduziu o mark-up das joias" },
+    { "date": "04/11", "event": "Copom mantém Selic em 13,75%, unânime", "why": "Juros altos por mais tempo" },
+    { "date": "03/11", "event": "Guepardo chega a 10,17% do capital (5,44% em ago.)", "why": "Gestora relevante comprando em baixa" },
+    { "date": "13/10", "event": "2ª emissão de debêntures, R$ 300 mi, AAA.br (Fitch)", "why": "Crédito barato e perfil de dívida alongado" }
+  ],
+  "competitive": [
+    "Participação (estimativa da cia., 3T26): Vivara 14,0%, Life 9,0%, relógios 2,8%.",
+    "Fábrica própria em Manaus; subvenção fiscal em queda.",
+    "Digital: app é 31% das vendas online.",
+    "Comparáveis listados (Renner, C&A, Arezzo) ainda não coletados. Próximo passo."
+  ],
+  "sources": "Status Invest (página indicada; devolveu dados de 2024), Dados de Mercado, Investidor10, Google Finance, BTG Pactual Research (06/11/2026), release e noticiário do 3T26 (InfoMoney, Money Times, Bloomberg Línea, Seu Dinheiro, Acionista), Banco Central (ata do Copom 04/11/2026), Boletim Focus 09/11/2026, Times Brasil/CNBC, comunicados da Vivara (CVM). Receita de 4T25 aproximada (R$ 1 bi); 1T26 e 2T26 de EBITDA sem valor confirmado (n/d). Pontos de cotação vêm de datas e fontes diferentes. O DCF é cálculo próprio. Números de portais de notícias não foram confrontados com os arquivos originais da CVM."
+}

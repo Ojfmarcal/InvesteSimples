@@ -1,0 +1,245 @@
+{
+ "meta": {
+  "ticker": "PETR4",
+  "name": "Petrobras",
+  "sector": "Petróleo e gás",
+  "valuation_model": "multiples",
+  "price": 42.65,
+  "price_date": "19/11/2026",
+  "asof": "20/11/2026",
+  "quality": "A cotação de R$ 42,65 vem da página do Investidor10 numa matéria de 19/11/2026 (horário não informado). Não coletei Ebitda, dívida, Brent nem produção atual. O plano 2027–2031 será apresentado em 23/11/2026.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Petrobras lucra ",
+   "R$ 39,8 bi",
+   " e eleva a produção."
+  ],
+  "lede": "O lucro do 3T26 foi de R$ 39,75 bilhões (+21,5%), com recordes, e a companhia elevou a projeção de produção para até 3,4 milhões de boe/dia. Foram aprovados cerca de R$ 15,3 bilhões em proventos.",
+  "stats": [
+   {
+    "value": "+41,1%",
+    "label": "cotação em 12 meses",
+    "tone": "up"
+   },
+   {
+    "value": "3,9x",
+    "label": "P/L"
+   },
+   {
+    "value": "8,5%",
+    "label": "dividend yield"
+   },
+   {
+    "value": "1,09x",
+    "label": "P/VP"
+   }
+  ],
+  "strip": [
+   "Lucro 3T26: R$ 39,75 bi (+21,5%)",
+   "Proventos aprovados: ~R$ 15,3 bi",
+   "Produção projetada: até 3,4 mi boe/dia",
+   "Plano 2027–2031: 23/11/2026"
+  ],
+  "events_sub": "3T26 · 11/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 39,75 bi, +21,5%",
+    "tag": "lucro",
+    "tone": "pos"
+   },
+   {
+    "abbr": "PR",
+    "title": "Proventos",
+    "sub": "~R$ 15,3 bi aprovados",
+    "tag": "proventos",
+    "tone": "pos"
+   },
+   {
+    "abbr": "PD",
+    "title": "Produção",
+    "sub": "Projeção elevada a até 3,4 mi boe/dia",
+    "tag": "produção",
+    "tone": "pos"
+   },
+   {
+    "abbr": "PL",
+    "title": "Plano 2027–2031",
+    "sub": "Apresentação em 23/11",
+    "tag": "plano",
+    "tone": "neutral"
+   }
+  ]
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Petrobras",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 39,75 bi (+21,5%)",
+    "tone": "up"
+   },
+   {
+    "label": "Proventos aprovados",
+    "value": "~R$ 15,3 bi"
+   },
+   {
+    "label": "Projeção de produção",
+    "value": "até 3,4 mi boe/dia"
+   },
+   {
+    "label": "P/L (página)",
+    "value": "3,9x"
+   },
+   {
+    "label": "P/VP (página)",
+    "value": "1,09x"
+   },
+   {
+    "label": "Dividend yield (página)",
+    "value": "8,48%"
+   }
+  ],
+  "note": "Ebitda, dívida bruta, Brent e produção do trimestre não foram coletados. Confira o release."
+ },
+ "indicators": {
+  "sub": "Investidor10, 19/11/2026",
+  "rows": [
+   {
+    "label": "Cotação",
+    "value": "R$ 42,65"
+   },
+   {
+    "label": "Variação em 12 meses",
+    "value": "+41,14%"
+   },
+   {
+    "label": "P/L",
+    "value": "3,91x"
+   },
+   {
+    "label": "P/VP",
+    "value": "1,09x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "8,48%"
+   }
+  ]
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Dólar mais alto ajuda receitas em dólar de exportadoras (Petrobras e Vale) e pesa em dívida em moeda forte.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Petróleo",
+  "sub": "contexto",
+  "bullets": [
+   "A Petrobras bateu recorde atrás de recorde e deixou rivais globais para trás (manchete do Investidor10).",
+   "A tensão EUA–Irã sustenta o petróleo e o risco geopolítico.",
+   "O BNDES reduziu sua posição na Petrobras após receber R$ 1,6 bi em dividendos e JCP."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Lucro de R$ 39,75 bi (+21,5%).",
+   "Dividend yield de 8,5% e P/L de 3,9x.",
+   "Produção projetada em até 3,4 mi boe/dia.",
+   "Ação +41% em 12 meses."
+  ],
+  "cons": [
+   "A ação já subiu bastante: P/VP de 1,09x.",
+   "Risco político e de governança sobre a política de preços e de dividendos.",
+   "O petróleo é volátil e depende da geopolítica.",
+   "O plano 2027–2031 ainda não foi divulgado."
+  ],
+  "guidance": [
+   [
+    "Produção projetada",
+    "até 3,4 mi boe/dia"
+   ],
+   [
+    "Plano 2027–2031",
+    "23/11/2026"
+   ]
+  ],
+  "watch": "Observar: o plano 2027–2031 (investimentos e dividendos), o Brent e o câmbio."
+ },
+ "timeline": [
+  {
+   "date": "19/11",
+   "event": "BNDES reduz posição na Petrobras",
+   "why": "Recebeu R$ 1,6 bi em dividendos e JCP"
+  }
+ ],
+ "competitive": [],
+ "sources": "Investidor10 (matéria de 19/11/2026), CNN Brasil, JB, Cenário Energia, Visnoinvest (3T26). Sem DCF nesta versão."
+}

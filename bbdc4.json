@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "ticker": "BBDC4",
+  "name": "Bradesco",
+  "sector": "Bancos",
+  "valuation_model": "pvp",
+  "price": null,
+  "price_date": "cotação não confirmada",
+  "asof": "20/11/2026",
+  "quality": "Cotação não confirmada: a página do Investidor10 mostra R$ 20,61 no texto e R$ 13,80 em outro ponto, e a matéria de 23/10 citava \"abaixo de R$ 20\". Por isso o painel não calcula alta ou queda. Compare o preço justo com a cotação atual.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Bradesco: ",
+   "13º",
+   " trimestre seguido de lucro em alta."
+  ],
+  "lede": "O lucro do 3T26 foi de R$ 7,1 bilhões (+14,6%), em linha com o esperado. A ação caiu quase 2% no dia, com analistas cautelosos com crédito e com a força do crescimento de lucro.",
+  "stats": [
+   {
+    "value": "+14,6%",
+    "label": "lucro 3T26 a/a",
+    "tone": "up"
+   },
+   {
+    "value": "13,0%",
+    "label": "ROE (12m)"
+   },
+   {
+    "value": "9,6%",
+    "label": "dividend yield"
+   },
+   {
+    "value": "93%",
+    "label": "payout"
+   }
+  ],
+  "strip": [
+   "Lucro 3T26: R$ 7,1 bi (+14,6%)",
+   "Recompra: mais de 106,2 mi de ações",
+   "Alvo Genial: R$ 26,30 (BBDC4)",
+   "VPA: R$ 15,23",
+   "P/VP (página): 1,33x"
+  ],
+  "events_sub": "3T26 · 22/10/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 7,1 bi, +14,6%",
+    "tag": "lucro",
+    "tone": "pos"
+   },
+   {
+    "abbr": "GE",
+    "title": "Genial: compra",
+    "sub": "Alvo de R$ 26,30 (BBDC4)",
+    "tag": "alvo",
+    "tone": "pos"
+   },
+   {
+    "abbr": "SA",
+    "title": "Safra: cautela",
+    "sub": "Receita menos dinâmica e crédito mais fraco",
+    "tag": "risco",
+    "tone": "neutral"
+   },
+   {
+    "abbr": "BT",
+    "title": "BTG: ritmo",
+    "sub": "Crescimento de lucro pode perder força",
+    "tag": "risco",
+    "tone": "neutral"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "ROE",
+    "value": 13.03
+   },
+   {
+    "label": "ROA",
+    "value": 1.32
+   },
+   {
+    "label": "Payout",
+    "value": 93.0
+   }
+  ],
+  "note": "Fonte: Investidor10, sem data."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Bradesco · 22/10/2026",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 7,1 bi (+14,6%)",
+    "tone": "up"
+   },
+   {
+    "label": "Sequência",
+    "value": "13º trimestre de alta do lucro recorrente"
+   },
+   {
+    "label": "Reação da ação",
+    "value": "-2% no dia seguinte",
+    "tone": "dn"
+   },
+   {
+    "label": "Recompra",
+    "value": "> 106,2 mi de ações"
+   }
+  ],
+  "note": "Inadimplência, Basileia e guidance não foram coletados. Confira o release."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "10,24x",
+    "tip": "Depende da cotação usada na página"
+   },
+   {
+    "label": "P/VP",
+    "value": "1,33x",
+    "tip": "Depende da cotação usada na página"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "9,62%"
+   },
+   {
+    "label": "ROE",
+    "value": "13,03%"
+   },
+   {
+    "label": "ROA",
+    "value": "1,32%"
+   },
+   {
+    "label": "Patrimônio líquido",
+    "value": "R$ 135,1 bi"
+   },
+   {
+    "label": "VPA",
+    "value": "R$ 15,23"
+   },
+   {
+    "label": "LPA",
+    "value": "R$ 1,99"
+   },
+   {
+    "label": "Ações",
+    "value": "8,87 bi"
+   }
+  ]
+ },
+ "targets": {
+  "rows": [
+   {
+    "who": "Genial (compra)",
+    "value": 26.3
+   }
+  ],
+  "note": "Alvo para BBDC4 citado pelo Investidor10 em 23/10/2026."
+ },
+ "pvp": {
+  "bvps": 15.23,
+  "note": "ROE atual de 13%. Cenários variam o ROE sustentável e o custo do capital. Premissas minhas.",
+  "presets": {
+   "bear": {
+    "roe": 10,
+    "ke": 16,
+    "g": 3
+   },
+   "base": {
+    "roe": 13,
+    "ke": 15,
+    "g": 3
+   },
+   "bull": {
+    "roe": 16,
+    "ke": 14,
+    "g": 4
+   }
+  },
+  "sliders": {
+   "roe": {
+    "label": "ROE sustentável",
+    "min": 3,
+    "max": 30,
+    "step": 0.5
+   },
+   "ke": {
+    "label": "Custo do capital (Ke)",
+    "min": 10,
+    "max": 20,
+    "step": 0.5
+   },
+   "g": {
+    "label": "Crescimento perpétuo",
+    "min": 1,
+    "max": 6,
+    "step": 0.5
+   }
+  },
+  "sens": {
+   "ke": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "g": [
+    2,
+    3,
+    4,
+    5
+   ]
+  }
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Selic em 13,75% mantém a margem de juros alta, mas pesa no crédito e na inadimplência.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Bancos",
+  "sub": "contexto",
+  "bullets": [
+   "Itaú e Bradesco mantêm lucro em alta; o BB sofre com o agro.",
+   "BTG caiu 31% entre 20/10 e 11/11 após o resultado eleitoral.",
+   "Selic em 13,75% sustenta a margem e pesa no crédito."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "13º trimestre seguido de crescimento do lucro recorrente.",
+   "ROE de 13% e dividend yield de 9,6% (página).",
+   "Recompra de mais de 106 milhões de ações.",
+   "Genial recomenda compra com alvo de R$ 26,30."
+  ],
+  "cons": [
+   "Safra vê receita menos dinâmica e crédito mais fraco.",
+   "BTG diz que o crescimento do lucro pode perder força.",
+   "Payout de 93% limita a retenção de capital.",
+   "Cotação instável nas fontes: confira o preço."
+  ],
+  "guidance": [],
+  "watch": "Observar: inadimplência, cobertura de crédito de maior risco e ROE nos próximos trimestres."
+ },
+ "timeline": [
+  {
+   "date": "22/10",
+   "event": "Bradesco divulga o 3T26",
+   "why": "Lucro em linha; ação cai quase 2% no dia seguinte"
+  }
+ ],
+ "competitive": [],
+ "sources": "Investidor10 (página BBDC4 e matéria de 23/10/2026), Genial, Safra, BTG (via Investidor10)."
+}
