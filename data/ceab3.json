@@ -1,0 +1,309 @@
+{
+ "meta": {
+  "ticker": "CEAB3",
+  "name": "C&A Modas",
+  "sector": "Varejo de moda",
+  "valuation_model": "multiples",
+  "price": 7.49,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm do Investidor10 sem data; uma matéria de 05/11 citava R$ 7,36 (+8,2%). O lucro de R$ 170,3 mi do 3T26 inclui crédito tributário de PIS/Cofins: o lucro ajustado foi de R$ 56,5 mi. Não há DCF nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "C&A: lucro contábil sobe, ",
+   "ajustado",
+   " cai."
+  ],
+  "lede": "O lucro de R$ 170,3 milhões no 3T26 (+145%) veio de créditos de PIS/Cofins. Sem eles, o lucro ajustado caiu 23,3%, para R$ 56,5 milhões. A margem bruta de vestuário bate recorde pela 21ª vez seguida.",
+  "stats": [
+   {
+    "value": "-54,4%",
+    "label": "cotação em 12 meses",
+    "tone": "dn"
+   },
+   {
+    "value": "0,59x",
+    "label": "P/VP"
+   },
+   {
+    "value": "R$ 2,3 bi",
+    "label": "valor de mercado"
+   },
+   {
+    "value": "0,13x",
+    "label": "dívida líquida / EBITDA"
+   }
+  ],
+  "strip": [
+   "Receita líquida 3T26: R$ 1,88 bi (+2,3%)",
+   "EBITDA ajustado: R$ 317,6 mi (-8%)",
+   "Margem bruta de vestuário: 56%",
+   "Vendas digitais: +27,6%",
+   "Caixa livre: R$ 152 mi"
+  ],
+  "events_sub": "3T26 · 05/11/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de R$ 170,3 mi, +145% (crédito fiscal)",
+    "tag": "lucro",
+    "tone": "neutral"
+   },
+   {
+    "abbr": "AJ",
+    "title": "Lucro ajustado",
+    "sub": "R$ 56,5 mi, -23,3% a/a",
+    "tag": "ajustado",
+    "tone": "neg"
+   },
+   {
+    "abbr": "BT",
+    "title": "BTG: compra",
+    "sub": "Alvo de R$ 19",
+    "tag": "alvo",
+    "tone": "pos"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "últimos 12 meses",
+  "rows": [
+   {
+    "label": "Margem EBITDA",
+    "value": 18.42
+   },
+   {
+    "label": "Margem líquida",
+    "value": 8.23
+   },
+   {
+    "label": "ROE",
+    "value": 16.83
+   },
+   {
+    "label": "ROIC",
+    "value": 19.2
+   }
+  ],
+  "note": "Margem líquida e ROE incluem o crédito tributário. Fonte: Investidor10."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "C&A",
+  "rows": [
+   {
+    "label": "Receita líquida",
+    "value": "R$ 1,88 bi (+2,3%)"
+   },
+   {
+    "label": "Receita de vestuário",
+    "value": "R$ 1,69 bi (+2,6%)"
+   },
+   {
+    "label": "Lucro líquido",
+    "value": "R$ 170,3 mi (+145,1%)"
+   },
+   {
+    "label": "Lucro líquido ajustado",
+    "value": "R$ 56,5 mi (-23,3%)",
+    "tone": "dn"
+   },
+   {
+    "label": "EBITDA ajustado",
+    "value": "R$ 317,6 mi (-8%)",
+    "tone": "dn",
+    "tip": "Segundo a XP, 11% acima das estimativas"
+   },
+   {
+    "label": "Margem bruta de vestuário",
+    "value": "56%",
+    "tip": "21ª expansão trimestral seguida"
+   },
+   {
+    "label": "Vendas mesmas lojas",
+    "value": "+1%"
+   },
+   {
+    "label": "Vendas digitais",
+    "value": "+27,6%"
+   },
+   {
+    "label": "Caixa livre",
+    "value": "R$ 152 mi"
+   }
+  ],
+  "note": "EBITDA com gastos extraordinários de marketing no trimestre."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "3,48x",
+    "tip": "Distorcido pelo crédito tributário"
+   },
+   {
+    "label": "P/VP",
+    "value": "0,59x"
+   },
+   {
+    "label": "EV/EBITDA",
+    "value": "1,69x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "6,96%"
+   },
+   {
+    "label": "ROE",
+    "value": "16,83%"
+   },
+   {
+    "label": "ROIC",
+    "value": "19,20%"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "R$ 197 mi"
+   },
+   {
+    "label": "Dív. líquida/EBITDA",
+    "value": "0,13x"
+   },
+   {
+    "label": "Ações",
+    "value": "308,2 mi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 2,31 bi"
+   }
+  ]
+ },
+ "targets": {
+  "rows": [
+   {
+    "who": "BTG (compra)",
+    "value": 19.0
+   }
+  ],
+  "note": "Único alvo com número confirmado nas fontes. XP mantém compra, sem alvo citado."
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o custo de capital.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Varejo de moda",
+  "sub": "lucro do 3T26 nas empresas cobertas",
+  "bullets": [
+   "Lucro do 3T26 caiu nas quatro varejistas de moda cobertas aqui: Renner (-11,8%), C&A (-23,3% ajustado), Azzas (-5,3% recorrente) e Vivara (-22,2% ajustado).",
+   "Margem bruta é o ponto forte: recorde no varejo da Renner, 21ª alta seguida na C&A e 56,8% na Azzas.",
+   "Vendas fracas em mesmas lojas e juros altos são o freio comum: C&A com +1% e Assaí com +0,1% no trimestre."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Dívida líquida de apenas R$ 197 mi (0,13x EBITDA).",
+   "Margem bruta de vestuário de 56%, 21ª alta trimestral seguida.",
+   "Vendas digitais +27,6%, 8% das vendas de mercadorias.",
+   "P/VP de 0,59x e dividend yield de 7,0%.",
+   "EBITDA ficou 11% acima das estimativas da XP."
+  ],
+  "cons": [
+   "Lucro ajustado caiu 23,3% e EBITDA ajustado, 8%.",
+   "Vendas em mesmas lojas de apenas +1%: atividade fraca.",
+   "O lucro contábil depende de crédito tributário que não se repete.",
+   "Ação caiu 54,4% em 12 meses."
+  ],
+  "guidance": [
+   [
+    "Alvo BTG",
+    "R$ 19"
+   ],
+   [
+    "Recomendação XP",
+    "compra"
+   ]
+  ],
+  "watch": "Observar: mesmas lojas, ritmo do digital e fim do efeito dos gastos extraordinários de marketing."
+ },
+ "timeline": [
+  {
+   "date": "05/11",
+   "event": "C&A divulga o 3T26; ação sobe até 10% no dia",
+   "why": "Resultado melhor que o temido pelo mercado"
+  }
+ ],
+ "competitive": [
+  "Pares de moda cobertos aqui: Renner e Azzas."
+ ],
+ "sources": "Investidor10 (página CEAB3), Seu Dinheiro (05/11/2026), Mercado & Consumo, Análise de Ações. Sem DCF nesta versão."
+}

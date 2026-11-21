@@ -1,0 +1,195 @@
+{
+ "meta": {
+  "ticker": "VALE3",
+  "name": "Vale",
+  "sector": "Mineração",
+  "valuation_model": "multiples",
+  "price": null,
+  "price_date": "cotação não confirmada",
+  "asof": "20/11/2026",
+  "quality": "Cotação não confirmada: a página do Investidor10 mostra R$ 58,46 num painel e \"acima de R$ 64\" no texto de 06/11. Por isso não há comparação com preço. Não coletei Ebitda, dívida nem preço do minério.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Vale lucra ",
+   "54% menos",
+   " no 3T26."
+  ],
+  "lede": "O lucro do 3T26 foi de US$ 1,25 bilhão (-54%), abaixo dos US$ 1,5 bilhão esperados. O minério caiu no trimestre por menor demanda da China, e a empresa prioriza recompra a dividendo extra.",
+  "stats": [
+   {
+    "value": "-54%",
+    "label": "lucro 3T26 a/a",
+    "tone": "dn"
+   },
+   {
+    "value": "US$ 1,25 bi",
+    "label": "lucro 3T26"
+   },
+   {
+    "value": "US$ 1,5 bi",
+    "label": "lucro esperado"
+   },
+   {
+    "value": "R$ 5,50",
+    "label": "dólar em 06/11"
+   }
+  ],
+  "strip": [
+   "Lucro 3T26: US$ 1,25 bi (-54%)",
+   "Esperado por analistas: US$ 1,5 bi",
+   "Prioriza recompra a dividendo extra",
+   "Minério caiu no trimestre, com menor demanda da China"
+  ],
+  "events_sub": "3T26 · out/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "Lucro de US$ 1,25 bi, -54%",
+    "tag": "lucro",
+    "tone": "neg"
+   },
+   {
+    "abbr": "RC",
+    "title": "Recompra",
+    "sub": "Priorizada sobre dividendo extra",
+    "tag": "capital",
+    "tone": "neutral"
+   },
+   {
+    "abbr": "FX",
+    "title": "Dólar em máxima do ano",
+    "sub": "R$ 5,50 em 06/11",
+    "tag": "câmbio",
+    "tone": "pos"
+   }
+  ]
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Vale",
+  "rows": [
+   {
+    "label": "Lucro líquido",
+    "value": "US$ 1,25 bi (-54%)",
+    "tone": "dn"
+   },
+   {
+    "label": "Esperado por analistas",
+    "value": "US$ 1,5 bi"
+   },
+   {
+    "label": "Alocação de capital",
+    "value": "recompra antes de dividendo extra"
+   },
+   {
+    "label": "Minério de ferro",
+    "value": "preço em queda no trimestre"
+   }
+  ],
+  "note": "Ebitda, dívida líquida, produção e preço do minério não foram coletados. Confira o release."
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Dólar mais alto ajuda receitas em dólar de exportadoras (Petrobras e Vale) e pesa em dívida em moeda forte.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Mineração",
+  "sub": "contexto",
+  "bullets": [
+   "Menor demanda da China pesa no preço do minério de ferro.",
+   "O dólar acima de R$ 5,50 é favorável a quem vende em dólar.",
+   "A Vale foi a ação mais negociada da B3 em 2026 (manchete do Investidor10)."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "Receita em dólar e dólar mais alto ajudam o caixa em reais.",
+   "Recompra priorizada: retorno ao acionista continua.",
+   "Ação muito líquida (a mais negociada da B3 em 2026)."
+  ],
+  "cons": [
+   "Lucro do 3T26 -54% e abaixo do esperado.",
+   "Demanda fraca da China e minério em queda.",
+   "Sem dividendo extra no curto prazo.",
+   "Cotação instável nas fontes: confira o preço."
+  ],
+  "guidance": [],
+  "watch": "Observar: preço do minério, demanda da China, dívida e política de retorno ao acionista."
+ },
+ "timeline": [
+  {
+   "date": "06/11",
+   "event": "Dólar sobe a R$ 5,50, máxima do ano",
+   "why": "Dá fôlego às ações de exportadoras como a Vale"
+  }
+ ],
+ "competitive": [],
+ "sources": "Investidor10 (matérias de 3T26 e 06/11/2026), Brapi, Euqueroinvestir, Forbes Brasil. Sem DCF nesta versão."
+}

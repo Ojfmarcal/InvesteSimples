@@ -1,0 +1,315 @@
+{
+ "meta": {
+  "ticker": "AZZA3",
+  "name": "Azzas 2154",
+  "sector": "Varejo de moda e calçados",
+  "valuation_model": "multiples",
+  "price": 14.63,
+  "price_date": "ref. Investidor10, sem data",
+  "asof": "20/11/2026",
+  "quality": "Cotação e múltiplos vêm do Investidor10 sem data. O alvo do BTG (R$ 40) indica alta de 160%, o que implica cotação em torno de R$ 15,4 na data da matéria, próxima à da página. Não há DCF nesta versão.",
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+ },
+ "hero": {
+  "headline": [
+   "Azzas cai a ",
+   "0,37x",
+   " do valor patrimonial."
+  ],
+  "lede": "A receita do 3T26 caiu 4,2%, mas o EBITDA recorrente (R$ 466 mi) superou as projeções e a alavancagem caiu para 1,48x. O \"divórcio\" entre Arezzo e Soma e uma possível venda da Farm Rio são os catalisadores.",
+  "stats": [
+   {
+    "value": "-45,6%",
+    "label": "cotação em 12 meses",
+    "tone": "dn"
+   },
+   {
+    "value": "0,37x",
+    "label": "P/VP"
+   },
+   {
+    "value": "R$ 3,0 bi",
+    "label": "valor de mercado"
+   },
+   {
+    "value": "1,48x",
+    "label": "dívida líquida / EBITDA"
+   }
+  ],
+  "strip": [
+   "Receita líquida 3T26: R$ 2,84 bi (-4,2%)",
+   "EBITDA recorrente: R$ 466 mi (-2,2%)",
+   "Margem EBITDA: 16,4%",
+   "Lucro recorrente: R$ 190,6 mi (-5,3%)",
+   "Caixa operacional: R$ 385 mi (+39,6%)"
+  ],
+  "events_sub": "3T26 · nov/2026",
+  "events": [
+   {
+    "abbr": "3T",
+    "title": "Resultado do 3T26",
+    "sub": "EBITDA acima das projeções de Citi e BTG",
+    "tag": "resultado",
+    "tone": "pos"
+   },
+   {
+    "abbr": "DV",
+    "title": "Divórcio Arezzo × Soma",
+    "sub": "Aprovado pelo Cade",
+    "tag": "societário",
+    "tone": "pos"
+   },
+   {
+    "abbr": "BT",
+    "title": "BTG: compra",
+    "sub": "Alvo de R$ 40 em 12 meses",
+    "tag": "alvo",
+    "tone": "pos"
+   },
+   {
+    "abbr": "CI",
+    "title": "Citi: compra",
+    "sub": "Classificada como alto risco",
+    "tag": "alvo",
+    "tone": "neutral"
+   }
+  ]
+ },
+ "margins": {
+  "sub": "3T26 e 12 meses",
+  "rows": [
+   {
+    "label": "Margem bruta (3T26)",
+    "value": 56.8
+   },
+   {
+    "label": "Margem EBITDA (3T26)",
+    "value": 16.4
+   },
+   {
+    "label": "Margem líquida (12m)",
+    "value": 2.99
+   },
+   {
+    "label": "ROE (12m)",
+    "value": 4.1
+   }
+  ],
+  "note": "Margem bruta e EBITDA do 3T26 vêm do Seu Dinheiro; as demais, do Investidor10."
+ },
+ "results": {
+  "title": "Resultado do 3T26",
+  "sub": "Azzas 2154",
+  "rows": [
+   {
+    "label": "Receita bruta",
+    "value": "R$ 3,58 bi (-3,6%)"
+   },
+   {
+    "label": "Receita líquida",
+    "value": "R$ 2,84 bi (-4,2%)",
+    "tone": "dn"
+   },
+   {
+    "label": "Margem bruta",
+    "value": "56,8% (+210 pb)"
+   },
+   {
+    "label": "EBITDA recorrente",
+    "value": "R$ 466 mi (-2,2%)"
+   },
+   {
+    "label": "Lucro líquido recorrente",
+    "value": "R$ 190,6 mi (-5,3%)",
+    "tone": "dn"
+   },
+   {
+    "label": "Caixa operacional",
+    "value": "R$ 385 mi (+39,6%)"
+   },
+   {
+    "label": "Caixa após capex",
+    "value": "R$ 273 mi"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "R$ 2,06 bi"
+   },
+   {
+    "label": "Alavancagem",
+    "value": "1,48x (ante 1,52x)"
+   }
+  ],
+  "note": "Por divisão: Fashion Men -11,8%; Hering -7,5%; Fashion Women -0,6%."
+ },
+ "indicators": {
+  "sub": "Investidor10, sem data",
+  "rows": [
+   {
+    "label": "P/L",
+    "value": "8,97x"
+   },
+   {
+    "label": "P/VP",
+    "value": "0,37x"
+   },
+   {
+    "label": "EV/EBITDA",
+    "value": "3,41x"
+   },
+   {
+    "label": "Dividend yield",
+    "value": "16,93%",
+    "tip": "Confira: yield muito alto para a política de proventos recente"
+   },
+   {
+    "label": "ROE",
+    "value": "4,10%"
+   },
+   {
+    "label": "ROIC",
+    "value": "4,37%"
+   },
+   {
+    "label": "Dívida líquida",
+    "value": "R$ 2,04 bi"
+   },
+   {
+    "label": "Dív. líquida/EBITDA",
+    "value": "1,38x"
+   },
+   {
+    "label": "Ações",
+    "value": "206,5 mi"
+   },
+   {
+    "label": "Valor de mercado",
+    "value": "R$ 3,02 bi"
+   }
+  ]
+ },
+ "targets": {
+  "rows": [
+   {
+    "who": "BTG (compra)",
+    "value": 40.0
+   }
+  ],
+  "note": "Alvo do BTG, citado pelo Seu Dinheiro. Citi recomenda compra de alto risco, sem alvo citado."
+ },
+ "macro": {
+  "sub": "Copom 04/11 · Focus 09/11",
+  "tiles": [
+   {
+    "label": "Selic",
+    "value": "13,75%",
+    "note": "pico de 15% até mar/26"
+   },
+   {
+    "label": "IPCA 2026",
+    "value": "5,22%",
+    "note": "teto da meta: 4,5%"
+   },
+   {
+    "label": "PIB 2026",
+    "value": "1,75%",
+    "note": "2027: 1,15%"
+   },
+   {
+    "label": "Dólar",
+    "value": "R$ 5,78",
+    "note": "16/11 · Focus fim/26: 5,35"
+   }
+  ],
+  "bullets": [
+   "Juros altos por mais tempo seguram o consumo de itens não essenciais e elevam o custo de capital.",
+   "Dólar subiu de R$ 5,56 (11/11) para R$ 5,78 (16/11) com cautela fiscal.",
+   "Tensão EUA–Irã e energia cara mantêm inflação global e Fed duros, o que pesa em emergentes."
+  ],
+  "selic": {
+   "sub": "Focus de 09/11 · % a.a.",
+   "points": [
+    {
+     "label": "Dez/26",
+     "value": 13.75
+    },
+    {
+     "label": "1ª/27",
+     "value": 13.75
+    },
+    {
+     "label": "2ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "3ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "4ª/27",
+     "value": 13.5
+    },
+    {
+     "label": "5ª/27",
+     "value": 13.25
+    },
+    {
+     "label": "6ª/27",
+     "value": 13.0
+    },
+    {
+     "label": "7ª/27",
+     "value": 12.75
+    }
+   ],
+   "note": "O mercado desistiu do corte de dezembro. A taxa só cai a partir da 2ª reunião de 2027 e fecha o ano em 12,50%."
+  }
+ },
+ "sector": {
+  "title": "Varejo de moda",
+  "sub": "lucro do 3T26 nas empresas cobertas",
+  "bullets": [
+   "Lucro do 3T26 caiu nas quatro varejistas de moda cobertas aqui: Renner (-11,8%), C&A (-23,3% ajustado), Azzas (-5,3% recorrente) e Vivara (-22,2% ajustado).",
+   "Margem bruta é o ponto forte: recorde no varejo da Renner, 21ª alta seguida na C&A e 56,8% na Azzas.",
+   "Vendas fracas em mesmas lojas e juros altos são o freio comum: C&A com +1% e Assaí com +0,1% no trimestre."
+  ]
+ },
+ "thesis": {
+  "pros": [
+   "EBITDA recorrente de R$ 466 mi acima das projeções do Citi e do BTG.",
+   "Alavancagem em queda: 1,48x no 3T26, ante 1,52x no 2T26.",
+   "Caixa operacional +39,6% e margem bruta de 56,8%.",
+   "Divórcio entre Arezzo e Soma aprovado pelo Cade, com mais foco e autonomia de gestão.",
+   "P/VP de 0,37x."
+  ],
+  "cons": [
+   "Receita líquida -4,2% e lucro recorrente -5,3%.",
+   "Fashion Men -11,8%, com vendas ao canal multimarcas em queda de cerca de 26% (Citi).",
+   "Hering com mais desafios que o previsto.",
+   "ROE de 4,1% e ROIC de 4,4% estão abaixo do custo de capital.",
+   "Ação caiu 45,6% em 12 meses."
+  ],
+  "guidance": [
+   [
+    "Divórcio Arezzo × Soma",
+    "aprovado (Cade)"
+   ],
+   [
+    "Farm Rio",
+    "venda possível, sem prazo"
+   ],
+   [
+    "Alvo BTG",
+    "R$ 40"
+   ]
+  ],
+  "watch": "Observar: execução da separação, Hering, canal multimarcas e eventual venda da Farm Rio."
+ },
+ "timeline": [],
+ "competitive": [
+  "Arezzo e Schutz: vendas em lojas próprias de +6,5% e +10,2%.",
+  "Farm Rio: crescimento de dois dígitos em dólar nas operações internacionais.",
+  "Pares de moda cobertos aqui: Renner e C&A."
+ ],
+ "sources": "Investidor10 (página AZZA3), Seu Dinheiro, DGABC/Estadão Conteúdo, Times Brasil. Sem DCF nesta versão."
+}
