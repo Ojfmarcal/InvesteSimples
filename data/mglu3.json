@@ -4,11 +4,12 @@
   "name": "Magazine Luiza",
   "sector": "Varejo eletro e digital",
   "valuation_model": "multiples",
-  "price": 8.2,
-  "price_date": "ref. Investidor10, sem data",
-  "asof": "20/11/2026",
+  "price": 8.99,
+  "price_date": "23/11/2026",
+  "asof": "23/11/2026",
   "quality": "Cotação e múltiplos vêm do Investidor10 sem data. O lucro de R$ 14 mi é o ajustado; as fontes divergem em prejuízo ou lucro contábil e eu não confirmei. Não há DCF nesta versão.",
-  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento."
+  "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento.",
+  "price_source": "Brapi"
  },
  "hero": {
   "headline": [
@@ -216,5 +217,77 @@
  "competitive": [
   "Casas Bahia em crise: Magalu ganha participação em lojas físicas."
  ],
- "sources": "Investidor10 (página MGLU3 e notícia de 09/11/2026), InfoMoney, Brapi, Seu Dinheiro, Bloomberg Línea. Sem DCF nesta versão."
+ "sources": "Investidor10 (página MGLU3 e notícia de 09/11/2026), InfoMoney, Brapi, Seu Dinheiro, Bloomberg Línea. Sem DCF nesta versão.",
+ "price_points": {
+  "sub": "fechamento mensal de 12 meses e cotação atual · Brapi",
+  "points": [
+   {
+    "date": "2025-11-24",
+    "value": 9.79,
+    "label": "nov/25"
+   },
+   {
+    "date": "2025-12-01",
+    "value": 8.94,
+    "label": "dez/25"
+   },
+   {
+    "date": "2026-01-02",
+    "value": 9.79,
+    "label": "jan/26"
+   },
+   {
+    "date": "2026-02-02",
+    "value": 9.35,
+    "label": "fev/26"
+   },
+   {
+    "date": "2026-03-02",
+    "value": 8.77,
+    "label": "mar/26"
+   },
+   {
+    "date": "2026-04-01",
+    "value": 8.23,
+    "label": "abr/26"
+   },
+   {
+    "date": "2026-05-04",
+    "value": 5.98,
+    "label": "mai/26"
+   },
+   {
+    "date": "2026-06-01",
+    "value": 4.68,
+    "label": "jun/26"
+   },
+   {
+    "date": "2026-07-01",
+    "value": 5.03,
+    "label": "jul/26"
+   },
+   {
+    "date": "2026-08-03",
+    "value": 4.81,
+    "label": "ago/26"
+   },
+   {
+    "date": "2026-09-01",
+    "value": 7.46,
+    "label": "set/26"
+   },
+   {
+    "date": "2026-10-01",
+    "value": 5.35,
+    "label": "out/26"
+   },
+   {
+    "date": "2026-11-23",
+    "value": 8.99,
+    "label": "23/11"
+   }
+  ],
+  "low52": 3.76,
+  "high52": 13.93
+ }
 }
