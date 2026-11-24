@@ -4,9 +4,9 @@
   "name": "Petrobras",
   "sector": "Petróleo e gás",
   "valuation_model": "multiples",
-  "price": 41.3,
-  "price_date": "23/11/2026",
-  "asof": "23/11/2026",
+  "price": 40.55,
+  "price_date": "24/11/2026",
+  "asof": "24/11/2026",
   "quality": "A cotação de R$ 42,65 vem da página do Investidor10 numa matéria de 19/11/2026 (horário não informado). Não coletei Ebitda, dívida, Brent nem produção atual. O plano 2027–2031 será apresentado em 23/11/2026.",
   "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento.",
   "price_source": "Brapi"
@@ -307,9 +307,9 @@
     "label": "out/26"
    },
    {
-    "date": "2026-11-23",
-    "value": 41.3,
-    "label": "23/11"
+    "date": "2026-11-24",
+    "value": 40.55,
+    "label": "24/11"
    }
   ],
   "low52": 29.53,

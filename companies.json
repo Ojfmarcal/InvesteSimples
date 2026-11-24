@@ -4,7 +4,7 @@
   "slug": "viva3",
   "name": "Vivara Participações",
   "sector": "Varejo de joias e acessórios",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -12,7 +12,7 @@
   "slug": "lren3",
   "name": "Lojas Renner",
   "sector": "Varejo de moda",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -20,7 +20,7 @@
   "slug": "ceab3",
   "name": "C&A Modas",
   "sector": "Varejo de moda",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -28,7 +28,7 @@
   "slug": "azza3",
   "name": "Azzas 2154",
   "sector": "Varejo de moda e calçados",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -36,7 +36,7 @@
   "slug": "asai3",
   "name": "Assaí Atacadista",
   "sector": "Varejo alimentar (atacarejo)",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -44,7 +44,7 @@
   "slug": "mglu3",
   "name": "Magazine Luiza",
   "sector": "Varejo eletro e digital",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Varejo"
  },
  {
@@ -52,7 +52,7 @@
   "slug": "bbas3",
   "name": "Banco do Brasil",
   "sector": "Bancos",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -60,7 +60,7 @@
   "slug": "bbdc4",
   "name": "Bradesco",
   "sector": "Bancos",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -68,7 +68,7 @@
   "slug": "itub4",
   "name": "Itaú Unibanco",
   "sector": "Bancos",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -76,7 +76,7 @@
   "slug": "bpac11",
   "name": "BTG Pactual",
   "sector": "Bancos",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -84,7 +84,7 @@
   "slug": "sanb11",
   "name": "Santander Brasil",
   "sector": "Bancos",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -92,7 +92,7 @@
   "slug": "b3sa3",
   "name": "B3",
   "sector": "Infraestrutura de mercado",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Financeiro"
  },
  {
@@ -100,7 +100,7 @@
   "slug": "petr4",
   "name": "Petrobras",
   "sector": "Petróleo e gás",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Petróleo e mineração"
  },
  {
@@ -108,7 +108,7 @@
   "slug": "vale3",
   "name": "Vale",
   "sector": "Mineração",
-  "asof": "2026-11-23",
+  "asof": "2026-11-24",
   "group": "Petróleo e mineração"
  }
 ]
