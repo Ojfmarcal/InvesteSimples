@@ -4,9 +4,9 @@
   "name": "Magazine Luiza",
   "sector": "Varejo eletro e digital",
   "valuation_model": "multiples",
-  "price": 9.29,
-  "price_date": "25/11/2026",
-  "asof": "25/11/2026",
+  "price": 9.65,
+  "price_date": "26/11/2026",
+  "asof": "26/11/2026",
   "quality": "Cotação e múltiplos vêm do Investidor10 sem data. O lucro de R$ 14 mi é o ajustado; as fontes divergem em prejuízo ou lucro contábil e eu não confirmei. Não há DCF nesta versão.",
   "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento.",
   "price_source": "Brapi"
@@ -222,7 +222,7 @@
   "sub": "fechamento mensal de 12 meses e cotação atual · Brapi",
   "points": [
    {
-    "date": "2025-11-25",
+    "date": "2025-11-26",
     "value": 9.79,
     "label": "nov/25"
    },
@@ -282,9 +282,9 @@
     "label": "out/26"
    },
    {
-    "date": "2026-11-25",
-    "value": 9.29,
-    "label": "25/11"
+    "date": "2026-11-26",
+    "value": 9.65,
+    "label": "26/11"
    }
   ],
   "low52": 3.76,
