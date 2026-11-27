@@ -4,9 +4,9 @@
   "name": "Vale",
   "sector": "Mineração",
   "valuation_model": "multiples",
-  "price": 58.73,
-  "price_date": "26/11/2026",
-  "asof": "26/11/2026",
+  "price": 57.19,
+  "price_date": "27/11/2026",
+  "asof": "27/11/2026",
   "quality": "Cotação não confirmada: a página do Investidor10 mostra R$ 58,46 num painel e \"acima de R$ 64\" no texto de 06/11. Por isso não há comparação com preço. Não coletei Ebitda, dívida nem preço do minério.",
   "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento.",
   "price_source": "Brapi"
@@ -197,7 +197,7 @@
   "sub": "fechamento mensal de 12 meses e cotação atual · Brapi",
   "points": [
    {
-    "date": "2025-11-26",
+    "date": "2025-11-27",
     "value": 67.4,
     "label": "nov/25"
    },
@@ -257,9 +257,9 @@
     "label": "out/26"
    },
    {
-    "date": "2026-11-26",
-    "value": 58.73,
-    "label": "26/11"
+    "date": "2026-11-27",
+    "value": 57.19,
+    "label": "27/11"
    }
   ],
   "low52": 54.61,

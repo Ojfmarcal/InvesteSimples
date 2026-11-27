@@ -4,9 +4,9 @@
   "name": "Itaú Unibanco",
   "sector": "Bancos",
   "valuation_model": "pvp",
-  "price": 42.56,
-  "price_date": "26/11/2026",
-  "asof": "26/11/2026",
+  "price": 42.73,
+  "price_date": "27/11/2026",
+  "asof": "27/11/2026",
   "quality": "Os dados do 3T26 vêm do release oficial do Itaú (6-K na SEC, 03/11/2026). A cotação de R$ 39,94 é de 04/11; a Genial usa R$ 38,69 de 30/10. O VPA de R$ 19,06 é implícito (R$ 38,69 ÷ P/VP de 2,03x projetado pela Genial, cálculo meu): confirme no balanço. Premissas do modelo base são as da Genial.",
   "disclaimer": "Análise estruturada com dados públicos coletados por mim e premissas minhas. Não é recomendação de investimento.",
   "price_source": "Brapi"
@@ -403,7 +403,7 @@
   "sub": "fechamento mensal de 12 meses e cotação atual · Brapi",
   "points": [
    {
-    "date": "2025-11-26",
+    "date": "2025-11-27",
     "value": 40.43,
     "label": "nov/25"
    },
@@ -463,9 +463,9 @@
     "label": "out/26"
    },
    {
-    "date": "2026-11-26",
-    "value": 42.56,
-    "label": "26/11"
+    "date": "2026-11-27",
+    "value": 42.73,
+    "label": "27/11"
    }
   ],
   "low52": 37.35,
